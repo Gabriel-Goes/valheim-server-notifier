@@ -8,7 +8,7 @@ class Death(Event):
         self.viking = viking
 
     def __str__(self) -> str:
-        return f'**Viking {self.viking} has gone to Valhala!**'
+        return f'**Camarada {self.viking} deitou!**'
 
 
 class Join(Event):
@@ -18,17 +18,17 @@ class Join(Event):
         self.viking = viking
 
     def __str__(self) -> str:
-        return f'*Viking {self.viking} has joined the battle!*'
+        return f'*Camarada {self.viking} se uniu a batalha!*'
 
 
 class ServerOn(Event):
     def __str__(self) -> str:
-        return '🟢 **Server is ON and Running** 🟢'
+        return '🟢 **Mundo aberto e rodando!** 🟢'
 
 
 class ServerOff(Event):
     def __str__(self) -> str:
-        return f'🛑 **Server is OFF** 🛑'
+        return f'🛑 **Mundo está fechado** 🛑'
 
 
 class WorldSave(Event):
@@ -38,4 +38,4 @@ class WorldSave(Event):
         self.duration = duration
 
     def __str__(self) -> str:
-        return f'*World has been saved. It took {self.duration}!*'
+        return f'*Mundo foi salvo. Levou {self.duration}!*'

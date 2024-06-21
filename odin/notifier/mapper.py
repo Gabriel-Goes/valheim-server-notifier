@@ -1,19 +1,19 @@
 from event import types
 from . import Template
 
+
 class ServerOnTemplate(Template):
     def get_payload(self) -> dict:
         payload = super().get_payload()
         payload['embeds'] = [{
             'author': {
-                'name': 'Odin',
-                'icon_url': 'https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/47/Odin_portrait.png/revision/latest?cb=20210307223313',
+                'name': 'Yamanderu',
+                'icon_url': '/home/steam/apps/valheim-server-notifier/images/Yamanderu_retrato.jpg',
             },
-            'title': 'My world is ready for the best warriors',
-            'description': 'Who will join me in our battle?',
+            'title': 'Nosso mundo está pronto para a reunião dos maiores guerreiros',
+            'description': 'Quem se unirá à nossa luta?',
         }]
         return payload
-
 
 
 class ServerOffTemplate(Template):
@@ -21,14 +21,13 @@ class ServerOffTemplate(Template):
         payload = super().get_payload()
         payload['embeds'] = [{
             'author': {
-                'name': 'Odin',
-                'icon_url': 'https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/47/Odin_portrait.png/revision/latest?cb=20210307223313',
+                'name': 'Yamanderu',
+                'icon_url': '/home/steam/apps/valheim-server-notifier/images/Yamanderu_retrato.jpg',
             },
-            'title': 'Very nice crusades today. We\'ll raid another day',
-            'description': 'Have some rest dear warrior. We\'ll meet soon',
+            'title': 'Nós precisamos de descanço. Até breve!',
+            'description': 'Após a prática é necessário retornar à teoria. Nos veremos em breve!',
         }]
         return payload
-
 
 
 class JoinTemplate(Template):
@@ -36,14 +35,13 @@ class JoinTemplate(Template):
         payload = super().get_payload()
         payload['embeds'] = [{
             'author': {
-                'name': 'Odin',
+                'name': 'Yamanderu',
                 'icon_url': 'https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/47/Odin_portrait.png/revision/latest?cb=20210307223313',
             },
-            'title': f'Welcome my fellow partner {self.event.viking}, good to see you again',
-            'description': 'Satisfy my wishes and you might reach Valhala',
+            'title': f'Bemvindo, caro camarada {self.event.viking}, bom revê-lo!',
+            'description': 'Unidos venceremos!',
         }]
         return payload
-
 
 
 class DeathTemplate(Template):
@@ -51,11 +49,11 @@ class DeathTemplate(Template):
         payload = super().get_payload()
         payload['embeds'] = [{
             'author': {
-                'name': 'Odin',
-                'icon_url': 'https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/47/Odin_portrait.png/revision/latest?cb=20210307223313',
+                'name': 'Yamanderu',
+                'icon_url': '/home/steam/apps/valheim-server-notifier/images/Yamanderu_retrato.jpg',
             },
-            'title': f'Oh come on {self.event.viking}! You are not ready for Valhala, yet',
-            'description': 'Go back there and fight for our honor!',
+            'title': f'Ah não, {self.event.viking}! Sua hora não chegou, levante-se!',
+            'description': 'Retorne à batalha, guerreiro!',
         }]
         return payload
 

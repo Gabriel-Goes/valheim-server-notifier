@@ -1,5 +1,6 @@
 from event import types
 
+
 class Template:
     event: types.Event
 
