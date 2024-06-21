@@ -106,9 +106,16 @@ class DeathTemplate(Template):
         scoreboard_file = '/home/steam/Valheim/scoreboard.csv'
         scoreboard_atualizado = return_scoreboard_with_last_dates(scoreboard_file)
 
-        scoreboard_str = "Placar de Mortes:\n   NOME   MORTES   ÚLTIMA MORTE\n================================\n"
+        max_player_length = max(len(player) for player in scoreboard_atualizado) if scoreboard_atualizado else len("NOME")
+        max_deaths_length = len("MORTES")
+        max_date_length = len("ÚLTIMA MORTE")
+
+        header = f"{'NOME'.ljust(max_player_length)}  {'MORTES'.ljust(max_deaths_length)}  {'ÚLTIMA MORTE'.ljust(max_date_length)}\n"
+        separator = "=" * (max_player_length + max_deaths_length + max_date_length + 4) + "\n"
+        scoreboard_str = f"Placar de Mortes:\n{header}{separator}"
         for player, (deaths, last_date) in scoreboard_atualizado.items():
-            scoreboard_str += f" {player}  {deaths}   {last_date}\n"
+            scoreboard_str += f"{player.ljust(max_player_length)}  {str(deaths).ljust(max_deaths_length)}  {last_date.ljust(max_date_length)}\n"
+
 
         payload = super().get_payload()
         payload['embeds'] = [{
@@ -120,7 +127,6 @@ class DeathTemplate(Template):
             'description': f'{scoreboard_str}\n',
         }]
         return payload
-
 
 
 class WorldSaveTemplate(Template):
