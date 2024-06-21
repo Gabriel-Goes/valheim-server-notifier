@@ -8,7 +8,7 @@ class ServerOnTemplate(Template):
         payload['embeds'] = [{
             'author': {
                 'name': 'Yamanderu',
-                'icon_url': '/home/steam/apps/valheim-server-notifier/images/Yamanderu_retrato.jpg',
+                'icon_url': 'https://raw.githubusercontent.com/Gabriel-Goes/valheim-server-notifier/main/images/Yamanderu_retrato.jpg',
             },
             'title': 'Nosso mundo está pronto para a reunião dos maiores guerreiros',
             'description': 'Quem se unirá à nossa luta?',
@@ -22,7 +22,7 @@ class ServerOffTemplate(Template):
         payload['embeds'] = [{
             'author': {
                 'name': 'Yamanderu',
-                'icon_url': '/home/steam/apps/valheim-server-notifier/images/Yamanderu_retrato.jpg',
+                'icon_url': 'https://raw.githubusercontent.com/Gabriel-Goes/valheim-server-notifier/main/images/Yamanderu_retrato.jpg',
             },
             'title': 'Nós precisamos de descanço. Até breve!',
             'description': 'Após a prática é necessário retornar à teoria. Nos veremos em breve!',
@@ -36,7 +36,7 @@ class JoinTemplate(Template):
         payload['embeds'] = [{
             'author': {
                 'name': 'Yamanderu',
-                'icon_url': 'https://static.wikia.nocookie.net/marvel-contestofchampions/images/4/47/Odin_portrait.png/revision/latest?cb=20210307223313',
+                'icon_url': 'https://raw.githubusercontent.com/Gabriel-Goes/valheim-server-notifier/main/images/Yamanderu_retrato.jpg',
             },
             'title': f'Bemvindo, caro camarada {self.event.viking}, bom revê-lo!',
             'description': 'Unidos venceremos!',
@@ -50,7 +50,7 @@ class DeathTemplate(Template):
         payload['embeds'] = [{
             'author': {
                 'name': 'Yamanderu',
-                'icon_url': '/home/steam/apps/valheim-server-notifier/images/Yamanderu_retrato.jpg',
+                'icon_url': 'https://raw.githubusercontent.com/Gabriel-Goes/valheim-server-notifier/main/images/Yamanderu_retrato.jpg',
             },
             'title': f'Ah não, {self.event.viking}! Sua hora não chegou, levante-se!',
             'description': 'Retorne à batalha, guerreiro!',
