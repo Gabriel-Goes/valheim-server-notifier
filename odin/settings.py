@@ -1,18 +1,29 @@
+# Autor Gabriel Góes Rocha de Lima
+# Data: 2024-06-25
+# Descrição: Configurações de regex para os eventos de log
+# valheim-server-notifier/odin/settings.py
+# Inspired from https://www.reddit.com/r/valheim/comments/n7vv9b/comment/gxihljp
+
+# ------------------------- IMPORTS------------------------------------------ #
 from event import types
 
-# Inspired from https://www.reddit.com/r/valheim/comments/n7vv9b/comment/gxihljp
+# ------------------------- CONFIGURAÇÕES ------------------------------------ #
 LOG_EVENT_TYPE_REGEXES = {
     "player_died": {
         "regex": r"Got character ZDOID from (?P<viking>\w+[ \w+]*) : 0:0",
         'class': types.Death,
     },
     "player_joined": {
-        "regex": r"Got character ZDOID from (?P<viking>\w+[ \w+]*) : [-0-9]*:[-0-9]*$",
+        "regex": r"Got character ZDOID from (?P<viking>\w+[ \w+]*) : (?P<zdoid>[-0-9]*):\d+$",
         'class': types.Join,
     },
     "game_server_connected": {
         "regex": r"Game server connected",
         'class': types.ServerOn,
+    },
+    "join_code": {
+        "regex": r'Session "Terra Sem Amos!" with join code (?P<join_code>\d+)',
+        "class": types.JoinCode,
     },
     "game_server_shutdown": {
         "regex": r"OnApplicationQuit",

@@ -1,13 +1,16 @@
-import os, time
+import os
+import time
 from typing import Generator, Optional
 
-def read_logs(path: str)-> Generator[Optional[str], None, None]:
+
+def read_logs(path: str) -> Generator[Optional[str], None, None]:
     """generator function that yields new lines in a file
 
     :param path: File Path as a string
     :type path: str
     :rtype: collections.Iterable
     """
+    print(f"Reading logs from: {path}")
     seek_end = True
     while True:  # handle moved/truncated files by allowing to reopen
         with open(path) as f:

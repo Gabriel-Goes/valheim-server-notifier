@@ -13,12 +13,34 @@ class Death(Event):
 
 class Join(Event):
     viking: str
+    zdoid: str
+
+    def __init__(self, viking: str, zdoid: str) -> None:
+        self.viking = viking
+        self.zdoid = zdoid
+
+    def __str__(self) -> str:
+        return f'*Camarada {self.viking} se uniu a batalha!*'
+
+
+class Leave(Event):
+    viking: str
 
     def __init__(self, viking: str) -> None:
         self.viking = viking
 
     def __str__(self) -> str:
-        return f'*Camarada {self.viking} se uniu a batalha!*'
+        return f'*Camarada {self.viking} abandonou a batalha!*'
+
+
+class JoinCode(Event):
+    join_code: str
+
+    def __init__(self, join_code: str) -> None:
+        self.join_code = join_code
+
+    def __str__(self) -> str:
+        return f'*Código de entrada: {self.join_code}*'
 
 
 class ServerOn(Event):
@@ -28,7 +50,7 @@ class ServerOn(Event):
 
 class ServerOff(Event):
     def __str__(self) -> str:
-        return f'🛑 **Mundo está fechado** 🛑'
+        return '🛑 **Mundo está fechado** 🛑'
 
 
 class WorldSave(Event):

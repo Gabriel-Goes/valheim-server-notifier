@@ -1,0 +1,1867 @@
+Others
+Mono path[0] = '/home/steam/Valheim/valheim_server_Data/Managed'
+Mono config path = '/home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/etc'
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/BepInEx.Preloader.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/BepInEx.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/System.Core.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/MonoMod.Utils.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/Mono.Cecil.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/Mono.Cecil.Mdb.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/Mono.Cecil.Pdb.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/Mono.Cecil.Rocks.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/MonoMod.Utils.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/MonoMod.RuntimeDetour.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/0Harmony.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/System.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64/data-0x56d8724e8640.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/data-0x56d8724e8640.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64/data-0x56d872926390.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/data-0x56d872926390.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/HarmonyXInterop.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64/data-0x56d8729ae5c0.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/data-0x56d8729ae5c0.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64/data-0x56d872972c20.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/data-0x56d872972c20.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64/data-0x56d8729bf050.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/data-0x56d8729bf050.so
+﻿Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64/data-0x56d8729dfcb0.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/data-0x56d8729dfcb0.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64/data-0x56d8729dd6c0.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/data-0x56d8729dd6c0.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/Mono.Security.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/System.Configuration.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/System.Xml.dll.so
+[Message:   BepInEx] BepInEx 5.4.22.0 - valheim_server (11/05/2024 23:55:52)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
+[Info   :   BepInEx] Running under Unity vUnknown (post-2017)
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+"[Info   :   BepInEx] System platform: Bits64, Linux"
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64/data-0x7c695b4b1010.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/data-0x7c695b4b1010.so
+[Message:   BepInEx] Preloader finished
+Preloaded 'libDiskSpacePlugin.so'
+Preloaded 'libparty.so'
+Preloaded 'libsteam_api.so'
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Initialize engine version: 2022.3.17f1 (4fc78088f837)
+[Subsystems] Discovering subsystems at path /home/steam/Valheim/valheim_server_Data/UnitySubsystems
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0; jobified=0
+NullGfxDevice:
+Version:  NULL 1.0 [1.0]
+Renderer: Null Device
+Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.AIModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.AccessibilityModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.AndroidJNIModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.AnimationModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.AssetBundleModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.AudioModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.ClothModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.ClusterInputModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.ClusterRendererModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.ContentLoadModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.CrashReportingModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.DSPGraphModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.DirectorModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.GIModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.GameCenterModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.GridModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.HotReloadModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.IMGUIModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.ImageConversionModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.InputModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.InputLegacyModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.JSONSerializeModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.LocalizationModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.ParticleSystemModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.PerformanceReportingModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.PhysicsModule.dll.so
+Got override: ./unstripped_corlib
+Current root dir: /home/steam/Valheim/valheim_server_Data/Managed
+New root path: /home/steam/Valheim/unstripped_corlib
+Search path: /home/steam/Valheim/unstripped_corlib:/home/steam/Valheim/valheim_server_Data/Managed
+Setting config paths; basedir: /home/steam/Valheim; config: /home/steam/Valheim/valheim_server.x86_64.config
+Managed dir: /home/steam/Valheim/valheim_server_Data/Managed
+Got image: 0x56d871eb28b0
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.dll
+Base: UnityEngine.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.AIModule.dll
+Base: UnityEngine.AIModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.AccessibilityModule.dll
+Base: UnityEngine.AccessibilityModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.AndroidJNIModule.dll
+Base: UnityEngine.AndroidJNIModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.AnimationModule.dll
+Base: UnityEngine.AnimationModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.AssetBundleModule.dll
+Base: UnityEngine.AssetBundleModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.AudioModule.dll
+Base: UnityEngine.AudioModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.ClothModule.dll
+Base: UnityEngine.ClothModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.ClusterInputModule.dll
+Base: UnityEngine.ClusterInputModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.ClusterRendererModule.dll
+Base: UnityEngine.ClusterRendererModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.ContentLoadModule.dll
+Base: UnityEngine.ContentLoadModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.CoreModule.dll
+Base: UnityEngine.CoreModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.CrashReportingModule.dll
+Base: UnityEngine.CrashReportingModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.DSPGraphModule.dll
+Base: UnityEngine.DSPGraphModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.DirectorModule.dll
+Base: UnityEngine.DirectorModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.GIModule.dll
+Base: UnityEngine.GIModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.GameCenterModule.dll
+Base: UnityEngine.GameCenterModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.GridModule.dll
+Base: UnityEngine.GridModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.HotReloadModule.dll
+Base: UnityEngine.HotReloadModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.IMGUIModule.dll
+Base: UnityEngine.IMGUIModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.ImageConversionModule.dll
+Base: UnityEngine.ImageConversionModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.InputModule.dll
+Base: UnityEngine.InputModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.InputLegacyModule.dll
+Base: UnityEngine.InputLegacyModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.JSONSerializeModule.dll
+Base: UnityEngine.JSONSerializeModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.LocalizationModule.dll
+Base: UnityEngine.LocalizationModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.ParticleSystemModule.dll
+Base: UnityEngine.ParticleSystemModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.PerformanceReportingModule.dll
+Base: UnityEngine.PerformanceReportingModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.PhysicsModule.dll
+Base: UnityEngine.PhysicsModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.PhyFallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.Physics2DModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.ProfilerModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.PropertiesModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.ScreenCaptureModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.SharedInternalsModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.SpriteMaskModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.SpriteShapeModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.StreamingModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.SubstanceModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.SubsystemsModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.TLSModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.TerrainModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.TerrainPhysicsModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.TextCoreFontEngineModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.TextCoreTextEngineModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.TextRenderingModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.TilemapModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.UIModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.UIElementsModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.UmbraModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.UnityAnalyticsModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.UnityAnalyticsCommonModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.UnityConnectModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.UnityCurlModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.UnityTestProtocolModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.UnityWebRequestModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.UnityWebRequestAssetBundleModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.UnityWebRequestAudioModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.UnityWebRequestTextureModule.dll.so
+sics2DModule.dll
+Base: UnityEngine.Physics2DModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.ProfilerModule.dll
+Base: UnityEngine.ProfilerModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.PropertiesModule.dll
+Base: UnityEngine.PropertiesModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+Base: UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.ScreenCaptureModule.dll
+Base: UnityEngine.ScreenCaptureModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.SharedInternalsModule.dll
+Base: UnityEngine.SharedInternalsModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.SpriteMaskModule.dll
+Base: UnityEngine.SpriteMaskModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.SpriteShapeModule.dll
+Base: UnityEngine.SpriteShapeModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.StreamingModule.dll
+Base: UnityEngine.StreamingModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.SubstanceModule.dll
+Base: UnityEngine.SubstanceModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.SubsystemsModule.dll
+Base: UnityEngine.SubsystemsModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.TLSModule.dll
+Base: UnityEngine.TLSModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.TerrainModule.dll
+Base: UnityEngine.TerrainModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+Base: UnityEngine.TerrainPhysicsModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll
+Base: UnityEngine.TextCoreFontEngineModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll
+Base: UnityEngine.TextCoreTextEngineModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.TextRenderingModule.dll
+Base: UnityEngine.TextRenderingModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.TilemapModule.dll
+Base: UnityEngine.TilemapModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.UIModule.dll
+Base: UnityEngine.UIModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.UIElementsModule.dll
+Base: UnityEngine.UIElementsModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.UmbraModule.dll
+Base: UnityEngine.UmbraModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+Base: UnityEngine.UnityAnalyticsModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll
+Base: UnityEngine.UnityAnalyticsCommonModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.UnityConnectModule.dll
+Base: UnityEngine.UnityConnectModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.UnityCurlModule.dll
+Base: UnityEngine.UnityCurlModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+Base: UnityEngine.UnityTestProtocolModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.UnityWebRequestModule.dll
+Base: UnityEngine.UnityWebRequestModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+Base: UnityEngine.UnityWebRequestAssetBundleModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+Base: UnityEngine.UnityWebRequestAudioModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+Base: UnityEngine.UnityWebRequestTextureModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.UnityFallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.UnityWebRequestWWWModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.VFXModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.VRModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.VehiclesModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.VideoModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.VirtualTexturingModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.WindModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.XRModule.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/netstandard.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/Assembly-CSharp.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/Unity.AI.Navigation.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/assembly_utils.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/assembly_guiutils.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/Unity.ScriptableBuildPipeline.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/gui_framework.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/assembly_sunshafts.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/PlatformTools.Platform.Steam.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/assembly_postprocessing.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/PlatformTools.Core.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/PlatformTools.Platform.Dev.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/Unity.TextMeshPro.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/com.rlabrecque.steamworks.net.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/PlayFabParty.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/assembly_valheim.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/ConnectedStorage.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/assembly_lux.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/assembly_simplemeshcombine.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/Unity.MemoryProfiler.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/PlatformToolsWrapper.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.XR.LegacyInputHelpers.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/SoftReferenceableAssets.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/assembly_googleanalytics.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.SpatialTracking.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/UnityEngine.UI.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/PlayFab.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/Unity.Timeline.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/Unity.InputSystem.dll.so
+WebRequestWWWModule.dll
+Base: UnityEngine.UnityWebRequestWWWModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.VFXModule.dll
+Base: UnityEngine.VFXModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.VRModule.dll
+Base: UnityEngine.VRModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.VehiclesModule.dll
+Base: UnityEngine.VehiclesModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.VideoModule.dll
+Base: UnityEngine.VideoModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.VirtualTexturingModule.dll
+Base: UnityEngine.VirtualTexturingModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.WindModule.dll
+Base: UnityEngine.WindModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.XRModule.dll
+Base: UnityEngine.XRModule.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/Assembly-CSharp.dll
+Base: Assembly-CSharp.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/Unity.AI.Navigation.dll
+Base: Unity.AI.Navigation.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/assembly_utils.dll
+Base: assembly_utils.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/assembly_guiutils.dll
+Base: assembly_guiutils.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/Unity.ScriptableBuildPipeline.dll
+Base: Unity.ScriptableBuildPipeline.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/gui_framework.dll
+Base: gui_framework.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/assembly_sunshafts.dll
+Base: assembly_sunshafts.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/PlatformTools.Platform.Steam.dll
+Base: PlatformTools.Platform.Steam.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/assembly_postprocessing.dll
+Base: assembly_postprocessing.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/PlatformTools.Core.dll
+Base: PlatformTools.Core.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/PlatformTools.Platform.Dev.dll
+Base: PlatformTools.Platform.Dev.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/Unity.TextMeshPro.dll
+Base: Unity.TextMeshPro.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/com.rlabrecque.steamworks.net.dll
+Base: com.rlabrecque.steamworks.net.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/PlayFabParty.dll
+Base: PlayFabParty.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/assembly_valheim.dll
+Base: assembly_valheim.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/ConnectedStorage.dll
+Base: ConnectedStorage.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/assembly_lux.dll
+Base: assembly_lux.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/assembly_simplemeshcombine.dll
+Base: assembly_simplemeshcombine.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/Unity.MemoryProfiler.dll
+Base: Unity.MemoryProfiler.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/PlatformToolsWrapper.dll
+Base: PlatformToolsWrapper.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll
+Base: UnityEngine.XR.LegacyInputHelpers.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/SoftReferenceableAssets.dll
+Base: SoftReferenceableAssets.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/assembly_googleanalytics.dll
+Base: assembly_googleanalytics.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.SpatialTracking.dll
+Base: UnityEngine.SpatialTracking.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/UnityEngine.UI.dll
+Base: UnityEngine.UI.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/PlayFab.dll
+Base: PlayFab.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/Unity.Timeline.dll
+Base: Unity.Timeline.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/Unity.InputSystem.dll
+Base: Unity.InputSystem.dll
+Load DLL:Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/Unity.InputSystem.ForUI.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/PlatformTools.Common.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/PlatformTools.Platform.Playstation.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/XblPCSandbox.dll.so
+"- Loaded All Assemblies, in  0.066 seconds"
+"- Finished resetting the current domain, in  0.001 seconds"
+ERROR: Shader Sprites/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Sprites/Mask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+There is no texture data available to upload.
+UnloadTime: 0.799119 ms
+[Message:   BepInEx] BepInEx 5.4.22.0 - valheim_server (11/05/2024 23:55:52)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
+[Info   :   BepInEx] Running under Unity vUnknown (post-2017)
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+"[Info   :   BepInEx] System platform: Bits64, Linux"
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Info   :   BepInEx] Detected Unity version: v2022.3.17f1
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 3 plugins to load
+[Info   :   BepInEx] Loading [Message Center 1.1.1]
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/BepInEx.MessageCenter.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/BepInEx.MessageCenter.dll.so
+[Info   :   BepInEx] Loading [WebMap 1.2.0]
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/WebMap.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/WebMap.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/websocket-sharp.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/websocket-sharp.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64/data-0x56d874030e70.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/data-0x56d874030e70.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64/data-0x56d87403b850.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/data-0x56d87403b850.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64/data-0x56d87296dac0.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/data-0x56d87296dac0.so
+WebMap: HTTP Server Listening on port 4000
+"WebMap: Failed to read map image data from disk. Could not find file ""/home/steam/Valheim/BepInEx/plugins/WebMap/map_data/COMUNISMO/map"""
+"WebMap: Failed to read pins.csv from disk. Could not find file ""/home/steam/Valheim/BepInEx/plugins/WebMap/map_data/COMUNISMO/pins.csv"""
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.2]
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/Valheim.DisplayBepInExInfo.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/Valheim.DisplayBepInExInfo.dll.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64/data-0x56d874afec50.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/data-0x56d874afec50.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64/data-0x56d874156990.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/data-0x56d874156990.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64/data-0x56d8741534a0.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/data-0x56d8741534a0.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64/data-0x56d8748e0700.so
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/data-0x56d8748e0700.so
+[Message:   BepInEx] Chainloader startup complete
+Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
+Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
+Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
+06/21/2024 17:50:44: Set background loading budget to Low
+ERROR: Shader TextMeshPro/Mobile/Distance Field shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'TextMeshPro/Distance Field' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader TextMeshPro/Distance Field shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'TextMeshPro/Distance Field' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader GUI/Text Shader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Unloading 5 Unused Serialized files (Serialized files now loaded: 9)
+UnloadTime: 0.258264 ms
+06/21/2024 17:50:45: Fetching PlatformPrefs 'GuiScale' before loading defaults
+06/21/2024 17:50:45: Fetching PlatformPrefs 'GuiScale' before loading defaults
+Unloading 172 unused Assets to reduce memory usage. Loaded Objects now: 2186.
+Total: 3.627102 ms (FindLiveObjects: 0.137628 ms CreateObjectMapping: 0.040225 ms MarkObjects: 3.330516 ms  DeleteObjects: 0.118332 ms)
+""
+06/21/2024 17:50:45: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+06/21/2024 17:50:45: Set background loading budget to Normal
+06/21/2024 17:50:49: Set background loading budget to High
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+"Couldn't create a Convex Mesh from source mesh ""default"" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh."
+"Couldn't create a Convex Mesh from source mesh ""default"" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh."
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 1133)
+ERROR: Shader Lux Lit Particles/ Tess Bumped shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Legacy Shaders/VertexLit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Legacy Shaders/Diffuse' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Legacy Shaders/Diffuse shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Legacy Shaders/Diffuse' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+WARNING: Shader Unsupported: 'Custom/SkyObject' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/SkyObject shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/SkyObject' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+WARNING: Shader Unsupported: 'Standard (Specular setup)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Standard (Specular setup) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Standard (Specular setup)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Mesh Flipbook Particle shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Unlit/Invis shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/ShadowBlob' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/ShadowBlob shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/ShadowBlob' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Gradient Mapped Particle (Unlit) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Distortion' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Distortion shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Distortion' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+WARNING: Shader Unsupported: 'Particles/Standard Surface2' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Particles/Standard Surface2 shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Particles/Standard Surface2' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+WARNING: Shader Unsupported: 'Custom/LitParticles' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/LitParticles shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/LitParticles' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Unlit/Color shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Blob' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Blob shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Blob' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/GuiScroll shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Custom/Tar shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Clouds' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Clouds shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Clouds' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Particle (Unlit) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Bonemass' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Bonemass shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Bonemass' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Legacy Shaders/Particles/Additive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/WaterMask' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/WaterMask shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/WaterMask' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+WARNING: Shader Unsupported: 'Custom/Grass' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Grass shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Grass' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Piece shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Legacy Shaders/Particles/Alpha Blended Premultiply shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Custom/Rug shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Trilinearmap' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Trilinearmap shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Trilinearmap' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+WARNING: Shader Unsupported: 'Particles/Standard Unlit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Particles/Standard Unlit shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Particles/Standard Unlit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+WARNING: Shader Unsupported: 'Standard TwoSided' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Standard TwoSided shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Standard TwoSided' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+WARNING: Shader Unsupported: 'Custom/Yggdrasil_root' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Yggdrasil_root shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Yggdrasil_root' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+WARNING: Shader Unsupported: 'Custom/Player' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Player shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Player' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+WARNING: Shader Unsupported: 'Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Standard shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Standard' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Creature shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Custom/LitGui shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Unlit/WeaponGlow shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Custom/StaticRock shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Custom/ParticleDecal shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader UI/Heat Distort shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Water' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Water shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Water' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/FlowOpaque shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Vegetation' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Vegetation shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Vegetation' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Legacy Shaders/Particles/Alpha Blended shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Unlit/BeaconBeam shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Heightmap' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Heightmap shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Heightmap' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Decal shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader TextMeshPro/Distance Field (Surface) shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Particles/Standard Unlit2' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Particles/Standard Unlit2 shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Particles/Standard Unlit2' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+WARNING: Shader Unsupported: 'Autodesk Interactive' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Autodesk Interactive shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Autodesk Interactive' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Flow shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Unlit/Lighting shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Lux Lit Particles/ Bumped shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Custom/AlphaParticle shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+06/21/2024 17:51:09: Set background loading budget to Low
+UnloadTime: 8.709072 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+"HDR Render Texture not supported, disabling HDR on reflection probe."
+06/21/2024 17:51:10: Missing audio clip in music respawn
+06/21/2024 17:51:10: Setting -logfile to: /home/steam/valheim.log
+06/21/2024 17:51:10: Get create world COMUNISMO
+ERROR: Shader TextMeshPro/Mobile/Distance Field shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+06/21/2024 17:51:10: Setting world modifier: raids->muchmore
+06/21/2024 17:51:10: Setting world modifier: combat->hard
+06/21/2024 17:51:10: Setting world modifier: deathpenalty->hard
+06/21/2024 17:51:10: Setting world modifier: portals->veryhard
+06/21/2024 17:51:10: Using environment steamid 892970
+06/21/2024 17:51:10: Using steam APPID:892970
+[S_API] SteamAPI_Init(): Loaded local 'steamclient.so' OK.
+CAppInfoCacheReadFromDiskThread took 22 milliseconds to initialize
+Setting breakpad minidump AppID = 892970
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561197960265728 [API loaded no]
+[S_API FAIL] Tried to access Steam interface SteamNetworkingUtils004 before SteamAPI_Init succeeded.
+06/21/2024 17:51:10: Server ID 90071992547409920
+06/21/2024 17:51:10: Authentication:k_ESteamNetworkingAvailability_Waiting
+06/21/2024 17:51:10: Steam game server initialized
+06/21/2024 17:51:10: Using default prefs
+06/21/2024 17:51:10: Valheim version: l-0.218.15 (network version 27)
+Trying to set graphic mode to 'Custom'
+Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
+Graphic mode 'Custom' applied!
+06/21/2024 17:51:10: Worldgenerator version setup:2
+06/21/2024 17:51:10: Console: [Info   : Unity Log] 06/21/2024 17:51:10: Console: Valheim l-0.218.15 (network version 27)
+""
+06/21/2024 17:51:10: Console: Valheim l-0.218.15 (network version 27)
+06/21/2024 17:51:10: Console: [Info   : Unity Log] 06/21/2024 17:51:10: Console:
+""
+06/21/2024 17:51:10: Console:
+"06/21/2024 17:51:10: Console: [Info   : Unity Log] 06/21/2024 17:51:10: Console: type ""help"" - for commands"
+""
+"06/21/2024 17:51:10: Console: type ""help"" - for commands"
+06/21/2024 17:51:10: Console: [Info   : Unity Log] 06/21/2024 17:51:10: Console:
+""
+06/21/2024 17:51:10: Console:
+06/21/2024 17:51:10: Console: [Info   : Unity Log] 06/21/2024 17:51:10: Render threading mode:SingleThreaded
+""
+06/21/2024 17:51:10: Render threading mode:SingleThreaded
+ERROR: Shader UI/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+"06/21/2024 17:51:10: Console: [Warning: Unity Log] 06/21/2024 17:51:10: Set button ""CamZoomIn"" to None!"
+""
+"06/21/2024 17:51:10: Set button ""CamZoomIn"" to None!"
+"06/21/2024 17:51:10: Console: [Warning: Unity Log] 06/21/2024 17:51:10: Set button ""CamZoomOut"" to None!"
+""
+"06/21/2024 17:51:10: Set button ""CamZoomOut"" to None!"
+"06/21/2024 17:51:10: Console: [Warning: Unity Log] 06/21/2024 17:51:10: Set button ""CamZoomIn"" to None!"
+""
+"06/21/2024 17:51:10: Set button ""CamZoomIn"" to None!"
+"06/21/2024 17:51:10: Console: [Warning: Unity Log] 06/21/2024 17:51:10: Set button ""CamZoomOut"" to None!"
+""
+"06/21/2024 17:51:10: Set button ""CamZoomOut"" to None!"
+06/21/2024 17:51:10: Builder started
+Fallback handler could not load library /home/steam/Valheim/valheim_server_Data/MonoBleedingEdge/x86_64//mono/aot-cache/amd64/System.Numerics.dll.so
+06/21/2024 17:51:10: Console: [Info   : Unity Log] 06/21/2024 17:51:10: Loaded localization file #0 - 'localization' language: 'English'
+""
+06/21/2024 17:51:10: Loaded localization file #0 - 'localization' language: 'English'
+06/21/2024 17:51:10: Console: [Info   : Unity Log] 06/21/2024 17:51:10: Loaded localization file #1 - 'localization_extra' language: 'English'
+""
+06/21/2024 17:51:10: Loaded localization file #1 - 'localization_extra' language: 'English'
+06/21/2024 17:51:10: Console: [Info   : Unity Log] 06/21/2024 17:51:10: Loaded localization file #2 - 'heightmap_message' language: 'English'
+""
+06/21/2024 17:51:10: Loaded localization file #2 - 'heightmap_message' language: 'English'
+06/21/2024 17:51:10: Console: [Info   : Unity Log] 06/21/2024 17:51:10: Loaded localization file #3 - 'localization_hildir' language: 'English'
+""
+06/21/2024 17:51:10: Loaded localization file #3 - 'localization_hildir' language: 'English'
+06/21/2024 17:51:10: Console: [Info   : Unity Log] 06/21/2024 17:51:10: Loaded localization file #4 - 'localization_emotes' language: 'English'
+""
+06/21/2024 17:51:10: Loaded localization file #4 - 'localization_emotes' language: 'English'
+06/21/2024 17:51:10: Console: [Info   : Unity Log] 06/21/2024 17:51:10: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+""
+06/21/2024 17:51:10: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+06/21/2024 17:51:10: Console: [Info   : Unity Log] 06/21/2024 17:51:10: Sending PlayFab login request (attempt 1)
+""
+06/21/2024 17:51:10: Sending PlayFab login request (attempt 1)
+06/21/2024 17:51:10: Console: [Info   : Unity Log] 06/21/2024 17:51:10: Login postponed until ID has been set.
+""
+06/21/2024 17:51:10: Login postponed until ID has been set.
+06/21/2024 17:51:10: Console: [Info   : Unity Log] The shader Hidden/Dof/DepthOfFieldHdr (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) is not supported on this platform!
+The shader Hidden/Dof/DepthOfFieldHdr (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) is not supported on this platform!
+06/21/2024 17:51:10: Console: [Warning: Unity Log] The image effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) has been disabled as it's not supported on the current platform.
+The image effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) has been disabled as it's not supported on the current platform.
+06/21/2024 17:51:10: Console: [Info   : Unity Log] The shader Hidden/SunShaftsComposite (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+The shader Hidden/SunShaftsComposite (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+06/21/2024 17:51:10: Console: [Info   : Unity Log] The shader Hidden/SimpleClear (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+The shader Hidden/SimpleClear (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+06/21/2024 17:51:10: Console: [Warning: Unity Log] The image effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) has been disabled as it's not supported on the current platform.
+The image effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) has been disabled as it's not supported on the current platform.
+06/21/2024 17:51:10: Console: [Info   : Unity Log] 06/21/2024 17:51:10: Starting music menu
+""
+06/21/2024 17:51:10: Starting music menu
+WARNING: Shader Unsupported: 'TextMeshPro/Distance Field' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader TextMeshPro/Distance Field shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'TextMeshPro/Distance Field' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader TextMeshPro/Sprite shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Unloading 86074 unused Assets to reduce memory usage. Loaded Objects now: 196944.
+Total: 158.836478 ms (FindLiveObjects: 17.849714 ms CreateObjectMapping: 28.388958 ms MarkObjects: 68.978997 ms  DeleteObjects: 43.617998 ms)
+""
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ERROR: Shader UI/Default shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'UI/Unlit/Transparent' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+WARNING: Shader Unsupported: 'UI/Unlit/Transparent' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+WARNING: Shader Unsupported: 'Custom/UI_BGBlur' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/UI_BGBlur shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/UI_BGBlur' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Hidden/RadialSegementShader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader UI/Lava Indicator shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/WaterBottom' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/WaterBottom shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/WaterBottom' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/mapshader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Yggdrasil' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Custom/Yggdrasil shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+WARNING: Shader Unsupported: 'Custom/Yggdrasil' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+"WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?"
+ERROR: Shader Hidden/RadialCutoutShader shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Custom/icon shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader Unlit/DepthWrite shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1135)
+UnloadTime: 28.632104 ms
+"HDR Render Texture not supported, disabling HDR on reflection probe."
+"HDR Render Texture not supported, disabling HDR on reflection probe."
+"06/21/2024 17:51:11: Audioman already exist, destroying self"
+/home/steam/Valheim/valheim_server_Data/Managed/Unity.InputSystem.ForUI.dll
+Base: Unity.InputSystem.ForUI.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/PlatformTools.Common.dll
+Base: PlatformTools.Common.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/PlatformTools.Platform.Playstation.dll
+Base: PlatformTools.Platform.Playstation.dll
+Load DLL: /home/steam/Valheim/valheim_server_Data/Managed/XblPCSandbox.dll
+Base: XblPCSandbox.dll
+dlmopen steamservice.so failed: steamservice.so: cannot open shared object file: No such file or directory
+src/clientdll/cminterface.cpp (2121) : !BLoggedOn()
+06/21/2024 17:51:11: Using default prefs
+06/21/2024 17:51:11: Console: [Info   : Unity Log] 06/21/2024 17:51:11: Console: Valheim l-0.218.15 (network version 27)
+""
+06/21/2024 17:51:11: Console: Valheim l-0.218.15 (network version 27)
+06/21/2024 17:51:11: Console: [Info   : Unity Log] 06/21/2024 17:51:11: Console:
+""
+06/21/2024 17:51:11: Console:
+"06/21/2024 17:51:11: Console: [Info   : Unity Log] 06/21/2024 17:51:11: Console: type ""help"" - for commands"
+""
+"06/21/2024 17:51:11: Console: type ""help"" - for commands"
+06/21/2024 17:51:11: Console: [Info   : Unity Log] 06/21/2024 17:51:11: Console:
+""
+06/21/2024 17:51:11: Console:
+06/21/2024 17:51:11: Console: [Info   : Unity Log] 06/21/2024 17:51:11: isModded: True
+""
+06/21/2024 17:51:11: isModded: True
+06/21/2024 17:51:11: Console: [Info   : Unity Log] 06/21/2024 17:51:11: Zonesystem Awake 1405115
+""
+06/21/2024 17:51:11: Zonesystem Awake 1405115
+06/21/2024 17:51:11: Console: [Info   : Unity Log] 06/21/2024 17:51:11: DungeonDB Awake 1405115
+""
+06/21/2024 17:51:11: DungeonDB Awake 1405115
+06/21/2024 17:51:11: Console: [Info   : Unity Log] 06/21/2024 17:51:11: Registering lobby
+""
+06/21/2024 17:51:11: Registering lobby
+"06/21/2024 17:51:11: Console: [Info   : Unity Log] 06/21/2024 17:51:11: PlayFab custom ID set to ""PlayFab_Terra Sem Amos!_2456_5b4489904bb24bfa830e65e8c6e42a0c"""
+""
+"06/21/2024 17:51:11: PlayFab custom ID set to ""PlayFab_Terra Sem Amos!_2456_5b4489904bb24bfa830e65e8c6e42a0c"""
+06/21/2024 17:51:11: Console: [Info   : Unity Log] 06/21/2024 17:51:11: Sending PlayFab login request (attempt 2)
+""
+06/21/2024 17:51:11: Sending PlayFab login request (attempt 2)
+06/21/2024 17:51:11: Console: [Info   : Unity Log] 06/21/2024 17:51:11: Semaphore type: SemaphoreSlim
+""
+06/21/2024 17:51:11: Semaphore type: SemaphoreSlim
+06/21/2024 17:51:11: Console: [Info   : Unity Log] 06/21/2024 17:51:11: Worldgenerator version setup:2
+""
+06/21/2024 17:51:11: Worldgenerator version setup:2
+06/21/2024 17:51:14: Console: [Error  : Unity Log] ArgumentNullException: Value cannot be null.
+Parameter name: shader
+Stack trace:
+UnityEngine.Material..ctor (UnityEngine.Shader shader) (at <3aefadeb43334fcf8b7b268355c16be2>:0)
+ShieldDomeImageEffect.Awake () (at <4efa3faf7157456487d70c5f7277dba7>:0)
+""
+ArgumentNullException: Value cannot be null.
+Parameter name: shader
+"at (wrapper managed-to-native) UnityEngine.Material.CreateWithShader(UnityEngine.Material,UnityEngine.Shader)"
+at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00008] in <3aefadeb43334fcf8b7b268355c16be2>:0
+at ShieldDomeImageEffect.Awake () [0x0000b] in <4efa3faf7157456487d70c5f7277dba7>:0
+""
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Console: /w [text] - Whisper
+""
+06/21/2024 17:51:14: Console: /w [text] - Whisper
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Console: /s [text] - Shout
+""
+06/21/2024 17:51:14: Console: /s [text] - Shout
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Console: /die - Kill yourself
+""
+06/21/2024 17:51:14: Console: /die - Kill yourself
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Console: /resetspawn - Reset spawn point
+""
+06/21/2024 17:51:14: Console: /resetspawn - Reset spawn point
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Console: /[emote]
+""
+06/21/2024 17:51:14: Console: /[emote]
+"06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Console: Emotes: wave, sit, challenge, cheer, nonono, thumbsup, point, blowkiss, bow, cower, cry, despair, flex, comehere, headbang, kneel, laugh, roar, shrug, dance"
+""
+"06/21/2024 17:51:14: Console: Emotes: wave, sit, challenge, cheer, nonono, thumbsup, point, blowkiss, bow, cower, cry, despair, flex, comehere, headbang, kneel, laugh, roar, shrug, dance"
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Console:
+""
+06/21/2024 17:51:14: Console:
+"06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: PlayFab logged in as ""PlayFab_Terra Sem Amos!_2456_5b4489904bb24bfa830e65e8c6e42a0c"""
+""
+"06/21/2024 17:51:14: PlayFab logged in as ""PlayFab_Terra Sem Amos!_2456_5b4489904bb24bfa830e65e8c6e42a0c"""
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: PlayFab local entity ID is 1E4F27C573E02B34
+""
+06/21/2024 17:51:14: PlayFab local entity ID is 1E4F27C573E02B34
+"06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: New session server ""Terra Sem Amos!"" that has join code , now 0 player(s)"
+""
+"06/21/2024 17:51:14: New session server ""Terra Sem Amos!"" that has join code , now 0 player(s)"
+"06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Register PlayFab server ""Terra Sem Amos!"" with IP 201.43.62.112:2456"
+""
+"06/21/2024 17:51:14: Register PlayFab server ""Terra Sem Amos!"" with IP 201.43.62.112:2456"
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Server 'Terra Sem Amos!' begin PlayFab create and join network for server
+""
+06/21/2024 17:51:14: Server 'Terra Sem Amos!' begin PlayFab create and join network for server
+Unloading 378 unused Assets to reduce memory usage. Loaded Objects now: 194945.
+Total: 102.207651 ms (FindLiveObjects: 15.298009 ms CreateObjectMapping: 19.798899 ms MarkObjects: 65.096096 ms  DeleteObjects: 2.013416 ms)
+""
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Zonesystem Start 1405115
+""
+06/21/2024 17:51:14: Zonesystem Start 1405115
+"06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main"
+""
+"06/21/2024 17:51:14: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main"
+"06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main"
+""
+"06/21/2024 17:51:14: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main"
+"06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main"
+""
+"06/21/2024 17:51:14: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main"
+"06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main"
+""
+"06/21/2024 17:51:14: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main"
+"06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Added 24 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main"
+""
+"06/21/2024 17:51:14: Added 24 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main"
+"06/21/2024 17:51:14: Console: [Error  : Unity Log] MissingMethodException: Method not found: Heightmap/Biome .WorldGenerator.GetBiome(single,single)"
+Stack trace:
+(wrapper dynamic-method) ZoneSystem.DMD<ZoneSystem::Start>(ZoneSystem)
+""
+"MissingMethodException: Method not found: Heightmap/Biome .WorldGenerator.GetBiome(single,single)"
+at (wrapper dynamic-method) ZoneSystem.DMD<ZoneSystem::Start>(ZoneSystem)
+""
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: DungeonDB Start 1405115
+""
+06/21/2024 17:51:14: DungeonDB Start 1405115
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: ZRpc timeout set to 30s
+""
+06/21/2024 17:51:14: ZRpc timeout set to 30s
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: ZNET START
+""
+06/21/2024 17:51:14: ZNET START
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Load world: COMUNISMO (COMUNISMO)
+""
+06/21/2024 17:51:14: Load world: COMUNISMO (COMUNISMO)
+"06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Loading 119735 zdos, my sessionID: -1238623630, data version: 34"
+""
+"06/21/2024 17:51:14: Loading 119735 zdos, my sessionID: -1238623630, data version: 34"
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Loading in ZDOs
+""
+06/21/2024 17:51:14: Loading in ZDOs
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Adding to Dictionary
+""
+06/21/2024 17:51:14: Adding to Dictionary
+06/21/2024 17:51:14: Console: [Info   : Unity Log] 06/21/2024 17:51:14: Adding to Sectors
+""
+06/21/2024 17:51:14: Adding to Sectors
+"06/21/2024 17:51:15: Console: [Info   : Unity Log] 06/21/2024 17:51:15: Connecting Portals, Spawners & ZSyncTransforms"
+""
+"06/21/2024 17:51:15: Connecting Portals, Spawners & ZSyncTransforms"
+06/21/2024 17:51:15: Console: [Info   : Unity Log] ConnectSpawners => Connected 77 spawners and 100 'done' spawners.
+ConnectSpawners => Connected 77 spawners and 100 'done' spawners.
+06/21/2024 17:51:15: Console: [Info   : Unity Log] 06/21/2024 17:51:15: Loaded 11398 locations
+""
+06/21/2024 17:51:15: Loaded 11398 locations
+06/21/2024 17:51:15: Console: [Info   : Unity Log] 06/21/2024 17:51:15: Unloading unused assets
+""
+06/21/2024 17:51:15: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1135)
+06/21/2024 17:51:15: Console: [Info   : Unity Log] The shader Hidden/Dof/DepthOfFieldHdr (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) is not supported on this platform!
+The shader Hidden/Dof/DepthOfFieldHdr (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) is not supported on this platform!
+06/21/2024 17:51:15: Console: [Warning: Unity Log] The image effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) has been disabled as it's not supported on the current platform.
+The image effect Main Camera (UnityStandardAssets.ImageEffects.DepthOfField) has been disabled as it's not supported on the current platform.
+06/21/2024 17:51:15: Console: [Info   : Unity Log] The shader Hidden/SunShaftsComposite (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+The shader Hidden/SunShaftsComposite (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+06/21/2024 17:51:15: Console: [Info   : Unity Log] The shader Hidden/SimpleClear (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+The shader Hidden/SimpleClear (UnityEngine.Shader) on effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) is not supported on this platform!
+06/21/2024 17:51:15: Console: [Warning: Unity Log] The image effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) has been disabled as it's not supported on the current platform.
+The image effect Main Camera (UnityStandardAssets.ImageEffects.SunShafts) has been disabled as it's not supported on the current platform.
+06/21/2024 17:51:15: Console: [Info   : Unity Log] Am I Host? True
+Am I Host? True
+06/21/2024 17:51:15: Console: [Info   : Unity Log] 06/21/2024 17:51:15: Game server connected
+""
+06/21/2024 17:51:15: Game server connected
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 194951.
+Total: 110.452913 ms (FindLiveObjects: 13.301574 ms CreateObjectMapping: 23.312598 ms MarkObjects: 73.258843 ms  DeleteObjects: 0.579126 ms)
+""
+"06/21/2024 17:51:18: Console: [Info   : Unity Log] 06/21/2024 17:51:18: Joined PlayFab Party network with ID ""b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ=="""
+""
+"06/21/2024 17:51:18: Joined PlayFab Party network with ID ""b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ=="""
+"06/21/2024 17:51:19: Console: [Info   : Unity Log] 06/21/2024 17:51:19: Created PlayFab lobby with ID ""eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509"", ConnectionString ""cv2:eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509|451107|kv1:Cmjp4KhR7AI28U/Y2R0NjYDOM2uPXoEiMwAj/1IMb1Y="" and owned by ""1E4F27C573E02B34"""
+""
+"06/21/2024 17:51:19: Created PlayFab lobby with ID ""eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509"", ConnectionString ""cv2:eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509|451107|kv1:Cmjp4KhR7AI28U/Y2R0NjYDOM2uPXoEiMwAj/1IMb1Y="" and owned by ""1E4F27C573E02B34"""
+"06/21/2024 17:51:19: Console: [Info   : Unity Log] 06/21/2024 17:51:19: Session ""Terra Sem Amos!"" registered with join code 107351"
+""
+"06/21/2024 17:51:19: Session ""Terra Sem Amos!"" registered with join code 107351"
+06/21/2024 17:51:20: Console: [Info   : Unity Log] 06/21/2024 17:51:20: Retry join-code check 99
+""
+06/21/2024 17:51:20: Retry join-code check 99
+"06/21/2024 17:51:23: Console: [Info   : Unity Log] 06/21/2024 17:51:23: Session ""Terra Sem Amos!"" with join code 107351 and IP 201.43.62.112:2456 is active with 0 player(s)"
+""
+"06/21/2024 17:51:23: Session ""Terra Sem Amos!"" with join code 107351 and IP 201.43.62.112:2456 is active with 0 player(s)"
+06/21/2024 17:58:14: Console: [Info   : Unity Log] 06/21/2024 17:58:14: Update PlayFab entity token
+""
+06/21/2024 17:58:14: Update PlayFab entity token
+06/21/2024 18:01:10: Console: [Info   : Unity Log] 06/21/2024 18:01:10: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 18:01:10: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+06/21/2024 18:01:15: Console: [Info   : Unity Log] 06/21/2024 18:01:15:  Connections 0 ZDOS:119735  sent:0 recv:0
+""
+06/21/2024 18:01:15:  Connections 0 ZDOS:119735  sent:0 recv:0
+06/21/2024 18:04:06: Console: [Info   : Unity Log] 06/21/2024 18:04:06: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+""
+06/21/2024 18:04:06: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+"06/21/2024 18:04:06: Console: [Info   : Unity Log] 06/21/2024 18:04:06: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 18:04:06: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 18:04:06: Console: [Info   : Unity Log] 06/21/2024 18:04:06: Muted PlayFab remote player 675D32EABCC36F50
+""
+06/21/2024 18:04:06: Muted PlayFab remote player 675D32EABCC36F50
+06/21/2024 18:04:06: Console: [Info   : Unity Log] 06/21/2024 18:04:06: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+""
+06/21/2024 18:04:06: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+06/21/2024 18:04:06: Console: [Info   : Unity Log] 06/21/2024 18:04:06: ZRpc timeout set to 90s
+""
+06/21/2024 18:04:06: ZRpc timeout set to 90s
+06/21/2024 18:04:06: Console: [Info   : Unity Log] 06/21/2024 18:04:06: Got handshake from client playfab/675D32EABCC36F50
+""
+06/21/2024 18:04:06: Got handshake from client playfab/675D32EABCC36F50
+"06/21/2024 18:04:10: Console: [Info   : Unity Log] 06/21/2024 18:04:10: Network version check, their:27, mine:27"
+""
+"06/21/2024 18:04:10: Network version check, their:27, mine:27"
+06/21/2024 18:04:10: Console: [Info   : Unity Log] 06/21/2024 18:04:10: Peer playfab/675D32EABCC36F50 has wrong password
+""
+06/21/2024 18:04:10: Peer playfab/675D32EABCC36F50 has wrong password
+"06/21/2024 18:04:11: Console: [Info   : Unity Log] 06/21/2024 18:04:11: Keep socket for playfab/675D32EABCC36F50, try to reconnect before timeout"
+""
+"06/21/2024 18:04:11: Keep socket for playfab/675D32EABCC36F50, try to reconnect before timeout"
+"06/21/2024 18:04:11: Console: [Info   : Unity Log] 06/21/2024 18:04:11: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 18:04:11: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 18:04:11: Console: [Info   : Unity Log] 06/21/2024 18:04:11: RPC_Disconnect
+""
+06/21/2024 18:04:11: RPC_Disconnect
+06/21/2024 18:04:11: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CONNECTED
+ZPlayFabSocket::Dispose. State: CONNECTED
+06/21/2024 18:04:11: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+06/21/2024 18:04:11: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CLOSED
+ZPlayFabSocket::Dispose. State: CLOSED
+06/21/2024 18:04:45: Console: [Info   : Unity Log] 06/21/2024 18:04:45: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+""
+06/21/2024 18:04:45: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+"06/21/2024 18:04:45: Console: [Info   : Unity Log] 06/21/2024 18:04:45: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 18:04:45: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 18:04:45: Console: [Info   : Unity Log] 06/21/2024 18:04:45: Muted PlayFab remote player 675D32EABCC36F50
+""
+06/21/2024 18:04:45: Muted PlayFab remote player 675D32EABCC36F50
+06/21/2024 18:04:45: Console: [Info   : Unity Log] 06/21/2024 18:04:45: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+""
+06/21/2024 18:04:45: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+06/21/2024 18:04:45: Console: [Info   : Unity Log] 06/21/2024 18:04:45: ZRpc timeout set to 90s
+""
+06/21/2024 18:04:45: ZRpc timeout set to 90s
+06/21/2024 18:04:45: Console: [Info   : Unity Log] 06/21/2024 18:04:45: Got handshake from client playfab/675D32EABCC36F50
+""
+06/21/2024 18:04:45: Got handshake from client playfab/675D32EABCC36F50
+"06/21/2024 18:04:49: Console: [Info   : Unity Log] 06/21/2024 18:04:49: Network version check, their:27, mine:27"
+""
+"06/21/2024 18:04:49: Network version check, their:27, mine:27"
+"06/21/2024 18:04:49: Console: [Info   : Unity Log] 06/21/2024 18:04:49: Server: New peer connected,sending global keys"
+""
+"06/21/2024 18:04:49: Server: New peer connected,sending global keys"
+06/21/2024 18:05:07: Console: [Info   : Unity Log] 06/21/2024 18:05:07: Got character ZDOID from Gavriil : 355210584:1
+""
+06/21/2024 18:05:07: Got character ZDOID from Gavriil : 355210584:1
+06/21/2024 18:05:07: Console: [Info   : Unity Log] 06/21/2024 18:05:07: Console: <color=orange>Gavriil</color>: <color=#FFEB04FF>I HAVE ARRIVED!</color>
+""
+06/21/2024 18:05:07: Console: <color=orange>Gavriil</color>: <color=#FFEB04FF>I HAVE ARRIVED!</color>
+06/21/2024 18:05:14: Console: [Info   : Unity Log] 06/21/2024 18:05:14: Found location of type Eikthyrnir
+""
+06/21/2024 18:05:14: Found location of type Eikthyrnir
+06/21/2024 18:05:21: Console: [Info   : Unity Log] 06/21/2024 18:05:21: RPC_Disconnect
+""
+06/21/2024 18:05:21: RPC_Disconnect
+06/21/2024 18:05:21: Console: [Info   : Unity Log] 06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:1 owner 355210584
+""
+06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:1 owner 355210584
+06/21/2024 18:05:21: Console: [Info   : Unity Log] 06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:2 owner 355210584
+""
+06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:2 owner 355210584
+06/21/2024 18:05:21: Console: [Info   : Unity Log] 06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:18 owner 355210584
+""
+06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:18 owner 355210584
+06/21/2024 18:05:21: Console: [Info   : Unity Log] 06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:14 owner 355210584
+""
+06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:14 owner 355210584
+06/21/2024 18:05:21: Console: [Info   : Unity Log] 06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:12 owner 355210584
+""
+06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:12 owner 355210584
+06/21/2024 18:05:21: Console: [Info   : Unity Log] 06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:13 owner 355210584
+""
+06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:13 owner 355210584
+06/21/2024 18:05:21: Console: [Info   : Unity Log] 06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:11 owner 355210584
+""
+06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:11 owner 355210584
+06/21/2024 18:05:21: Console: [Info   : Unity Log] 06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:15 owner 355210584
+""
+06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:15 owner 355210584
+06/21/2024 18:05:21: Console: [Info   : Unity Log] 06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:16 owner 355210584
+""
+06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:16 owner 355210584
+06/21/2024 18:05:21: Console: [Info   : Unity Log] 06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:17 owner 355210584
+""
+06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:17 owner 355210584
+06/21/2024 18:05:21: Console: [Info   : Unity Log] 06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:19 owner 355210584
+""
+06/21/2024 18:05:21: Destroying abandoned non persistent zdo 355210584:19 owner 355210584
+06/21/2024 18:05:21: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CONNECTED
+ZPlayFabSocket::Dispose. State: CONNECTED
+06/21/2024 18:05:21: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+06/21/2024 18:05:21: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CLOSED
+ZPlayFabSocket::Dispose. State: CLOSED
+"06/21/2024 18:05:21: Console: [Info   : Unity Log] 06/21/2024 18:05:21: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 0 player(s)"
+""
+"06/21/2024 18:05:21: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 0 player(s)"
+06/21/2024 18:11:15: Console: [Info   : Unity Log] 06/21/2024 18:11:15:  Connections 0 ZDOS:119735  sent:0 recv:0
+""
+06/21/2024 18:11:15:  Connections 0 ZDOS:119735  sent:0 recv:0
+06/21/2024 18:11:23: Console: [Info   : Unity Log] 06/21/2024 18:11:23: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 18:11:23: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+06/21/2024 18:17:37: Console: [Info   : Unity Log] 06/21/2024 18:17:37: Update PlayFab entity token
+""
+06/21/2024 18:17:37: Update PlayFab entity token
+06/21/2024 18:19:43: Console: [Info   : Unity Log] 06/21/2024 18:19:43: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+""
+06/21/2024 18:19:43: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+"06/21/2024 18:19:43: Console: [Info   : Unity Log] 06/21/2024 18:19:43: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 18:19:43: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 18:19:43: Console: [Info   : Unity Log] 06/21/2024 18:19:43: ZRpc timeout set to 90s
+""
+06/21/2024 18:19:43: ZRpc timeout set to 90s
+06/21/2024 18:19:43: Console: [Info   : Unity Log] 06/21/2024 18:19:43: Muted PlayFab remote player 675D32EABCC36F50
+""
+06/21/2024 18:19:43: Muted PlayFab remote player 675D32EABCC36F50
+06/21/2024 18:19:43: Console: [Info   : Unity Log] 06/21/2024 18:19:43: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+""
+06/21/2024 18:19:43: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+06/21/2024 18:19:43: Console: [Info   : Unity Log] 06/21/2024 18:19:43: Got handshake from client playfab/675D32EABCC36F50
+""
+06/21/2024 18:19:43: Got handshake from client playfab/675D32EABCC36F50
+"06/21/2024 18:19:50: Console: [Info   : Unity Log] 06/21/2024 18:19:50: Network version check, their:27, mine:27"
+""
+"06/21/2024 18:19:50: Network version check, their:27, mine:27"
+"06/21/2024 18:19:50: Console: [Info   : Unity Log] 06/21/2024 18:19:50: Server: New peer connected,sending global keys"
+""
+"06/21/2024 18:19:50: Server: New peer connected,sending global keys"
+06/21/2024 18:20:07: Console: [Info   : Unity Log] 06/21/2024 18:20:07: Got character ZDOID from Potiguara : 264984891:1
+""
+06/21/2024 18:20:07: Got character ZDOID from Potiguara : 264984891:1
+06/21/2024 18:20:07: Console: [Info   : Unity Log] 06/21/2024 18:20:07: Console: <color=orange>Potiguara</color>: <color=#FFEB04FF>I HAVE ARRIVED!</color>
+""
+06/21/2024 18:20:07: Console: <color=orange>Potiguara</color>: <color=#FFEB04FF>I HAVE ARRIVED!</color>
+06/21/2024 18:21:09: Console: [Info   : Unity Log] Am I Host? True
+Am I Host? True
+06/21/2024 18:21:09: Console: [Info   : Unity Log] 06/21/2024 18:21:09: Available space to current user: 126768869376. Saving is blocked if below: 15351326 bytes. Warnings are given if below: 30702652
+""
+06/21/2024 18:21:09: Available space to current user: 126768869376. Saving is blocked if below: 15351326 bytes. Warnings are given if below: 30702652
+06/21/2024 18:21:09: Console: [Info   : Unity Log] 06/21/2024 18:21:09: Sending message to save player profiles
+""
+06/21/2024 18:21:09: Sending message to save player profiles
+06/21/2024 18:21:09: Console: [Info   : Unity Log] 06/21/2024 18:21:09: Sent to playfab/675D32EABCC36F50
+""
+06/21/2024 18:21:09: Sent to playfab/675D32EABCC36F50
+06/21/2024 18:21:09: Console: [Info   : Unity Log] 06/21/2024 18:21:09: PrepareSave: clone done in 35ms
+""
+06/21/2024 18:21:09: PrepareSave: clone done in 35ms
+06/21/2024 18:21:09: Console: [Info   : Unity Log] 06/21/2024 18:21:09: PrepareSave: ZDOExtraData.PrepareSave done in 38 ms
+""
+06/21/2024 18:21:09: PrepareSave: ZDOExtraData.PrepareSave done in 38 ms
+06/21/2024 18:21:09: World save writing starting
+06/21/2024 18:21:09: World save writing started
+06/21/2024 18:21:10: Saved 119727 ZDOs
+06/21/2024 18:21:10: World save writing finishing
+06/21/2024 18:21:10: World save writing finished
+"06/21/2024 18:21:10: World saved ( 527,167ms )"
+"06/21/2024 18:21:10: Considering autobackup. World time: 1794,66, short time: 7200, long time: 43200, backup count: 4"
+06/21/2024 18:21:10: No autobackup needed yet...
+06/21/2024 18:21:10: Console: [Info   : Unity Log] Am I Host? True
+Am I Host? True
+06/21/2024 18:21:15: Console: [Info   : Unity Log] 06/21/2024 18:21:15:  Connections 1 ZDOS:119739  sent:0 recv:318
+""
+06/21/2024 18:21:15:  Connections 1 ZDOS:119739  sent:0 recv:318
+"06/21/2024 18:21:32: Console: [Info   : Unity Log] 06/21/2024 18:21:32: Keep socket for playfab/675D32EABCC36F50, try to reconnect before timeout"
+""
+"06/21/2024 18:21:32: Keep socket for playfab/675D32EABCC36F50, try to reconnect before timeout"
+"06/21/2024 18:21:32: Console: [Info   : Unity Log] 06/21/2024 18:21:32: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 18:21:32: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 18:21:32: Console: [Info   : Unity Log] 06/21/2024 18:21:32: RPC_Disconnect
+""
+06/21/2024 18:21:32: RPC_Disconnect
+06/21/2024 18:21:32: Console: [Info   : Unity Log] 06/21/2024 18:21:32: Destroying abandoned non persistent zdo 264984891:1 owner 264984891
+""
+06/21/2024 18:21:32: Destroying abandoned non persistent zdo 264984891:1 owner 264984891
+06/21/2024 18:21:32: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CONNECTED
+ZPlayFabSocket::Dispose. State: CONNECTED
+06/21/2024 18:21:32: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+06/21/2024 18:21:32: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CLOSED
+ZPlayFabSocket::Dispose. State: CLOSED
+06/21/2024 18:24:37: Console: [Info   : Unity Log] 06/21/2024 18:24:37: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 18:24:37: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+06/21/2024 18:31:15: Console: [Info   : Unity Log] 06/21/2024 18:31:15:  Connections 0 ZDOS:119729  sent:0 recv:0
+""
+06/21/2024 18:31:15:  Connections 0 ZDOS:119729  sent:0 recv:0
+06/21/2024 18:33:20: Console: [Info   : Unity Log] 06/21/2024 18:33:20: Update PlayFab entity token
+""
+06/21/2024 18:33:20: Update PlayFab entity token
+06/21/2024 18:37:03: Console: [Info   : Unity Log] 06/21/2024 18:37:03: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 18:37:03: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+06/21/2024 18:41:15: Console: [Info   : Unity Log] 06/21/2024 18:41:15:  Connections 0 ZDOS:119729  sent:0 recv:0
+""
+06/21/2024 18:41:15:  Connections 0 ZDOS:119729  sent:0 recv:0
+06/21/2024 18:46:22: Console: [Info   : Unity Log] 06/21/2024 18:46:22: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 18:46:22: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+06/21/2024 18:51:09: Console: [Info   : Unity Log] Am I Host? True
+Am I Host? True
+06/21/2024 18:51:09: Console: [Info   : Unity Log] 06/21/2024 18:51:09: Available space to current user: 126743482368. Saving is blocked if below: 15277944 bytes. Warnings are given if below: 30555888
+""
+06/21/2024 18:51:09: Available space to current user: 126743482368. Saving is blocked if below: 15277944 bytes. Warnings are given if below: 30555888
+06/21/2024 18:51:09: Console: [Info   : Unity Log] 06/21/2024 18:51:09: Sending message to save player profiles
+""
+06/21/2024 18:51:09: Sending message to save player profiles
+06/21/2024 18:51:09: Console: [Info   : Unity Log] 06/21/2024 18:51:09: PrepareSave: clone done in 29ms
+""
+06/21/2024 18:51:09: PrepareSave: clone done in 29ms
+06/21/2024 18:51:09: Console: [Info   : Unity Log] 06/21/2024 18:51:09: PrepareSave: ZDOExtraData.PrepareSave done in 32 ms
+""
+06/21/2024 18:51:09: PrepareSave: ZDOExtraData.PrepareSave done in 32 ms
+06/21/2024 18:51:09: World save writing starting
+06/21/2024 18:51:09: World save writing started
+06/21/2024 18:51:10: Saved 119729 ZDOs
+06/21/2024 18:51:10: World save writing finishing
+06/21/2024 18:51:10: World save writing finished
+"06/21/2024 18:51:10: World saved ( 471,619ms )"
+"06/21/2024 18:51:10: Considering autobackup. World time: 3594,98, short time: 7200, long time: 43200, backup count: 4"
+06/21/2024 18:51:10: No autobackup needed yet...
+06/21/2024 18:51:11: Console: [Info   : Unity Log] Am I Host? True
+Am I Host? True
+06/21/2024 18:51:15: Console: [Info   : Unity Log] 06/21/2024 18:51:15: Unloading unused assets
+""
+06/21/2024 18:51:15: Unloading unused assets
+06/21/2024 18:51:15: Console: [Info   : Unity Log] 06/21/2024 18:51:15:  Connections 0 ZDOS:119729  sent:0 recv:0
+""
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1135)
+06/21/2024 18:51:15:  Connections 0 ZDOS:119729  sent:0 recv:0
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 195862.
+Total: 98.653846 ms (FindLiveObjects: 12.242228 ms CreateObjectMapping: 16.436143 ms MarkObjects: 68.816913 ms  DeleteObjects: 1.157340 ms)
+""
+06/21/2024 18:52:11: Console: [Info   : Unity Log] 06/21/2024 18:52:11: Update PlayFab entity token
+""
+06/21/2024 18:52:11: Update PlayFab entity token
+06/21/2024 18:57:47: Console: [Info   : Unity Log] 06/21/2024 18:57:47: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 18:57:47: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+06/21/2024 19:01:15: Console: [Info   : Unity Log] 06/21/2024 19:01:15:  Connections 0 ZDOS:119729  sent:0 recv:0
+""
+06/21/2024 19:01:15:  Connections 0 ZDOS:119729  sent:0 recv:0
+06/21/2024 19:08:33: Console: [Info   : Unity Log] 06/21/2024 19:08:33: Update PlayFab entity token
+""
+06/21/2024 19:08:33: Update PlayFab entity token
+06/21/2024 19:08:49: Console: [Info   : Unity Log] 06/21/2024 19:08:49: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+""
+06/21/2024 19:08:49: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+"06/21/2024 19:08:49: Console: [Info   : Unity Log] 06/21/2024 19:08:49: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 19:08:49: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 19:08:49: Console: [Info   : Unity Log] 06/21/2024 19:08:49: Muted PlayFab remote player 675D32EABCC36F50
+""
+06/21/2024 19:08:49: Muted PlayFab remote player 675D32EABCC36F50
+06/21/2024 19:08:49: Console: [Info   : Unity Log] 06/21/2024 19:08:49: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+""
+06/21/2024 19:08:49: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+06/21/2024 19:08:49: Console: [Info   : Unity Log] 06/21/2024 19:08:49: ZRpc timeout set to 90s
+""
+06/21/2024 19:08:49: ZRpc timeout set to 90s
+06/21/2024 19:08:49: Console: [Info   : Unity Log] 06/21/2024 19:08:49: Got handshake from client playfab/675D32EABCC36F50
+""
+06/21/2024 19:08:49: Got handshake from client playfab/675D32EABCC36F50
+"06/21/2024 19:08:53: Console: [Info   : Unity Log] 06/21/2024 19:08:53: Network version check, their:27, mine:27"
+""
+"06/21/2024 19:08:53: Network version check, their:27, mine:27"
+"06/21/2024 19:08:53: Console: [Info   : Unity Log] 06/21/2024 19:08:53: Server: New peer connected,sending global keys"
+""
+"06/21/2024 19:08:53: Server: New peer connected,sending global keys"
+06/21/2024 19:09:11: Console: [Info   : Unity Log] 06/21/2024 19:09:11: Got character ZDOID from Gavriil : -754556743:1
+""
+06/21/2024 19:09:11: Got character ZDOID from Gavriil : -754556743:1
+06/21/2024 19:09:11: Console: [Info   : Unity Log] 06/21/2024 19:09:11: Console: <color=orange>Gavriil</color>: <color=#FFEB04FF>I HAVE ARRIVED!</color>
+""
+06/21/2024 19:09:11: Console: <color=orange>Gavriil</color>: <color=#FFEB04FF>I HAVE ARRIVED!</color>
+06/21/2024 19:09:22: Console: [Info   : Unity Log] 06/21/2024 19:09:22: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 19:09:22: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+06/21/2024 19:09:24: Console: [Info   : Unity Log] 06/21/2024 19:09:24: Console: <color=orange>Gavriil</color>: <color=#FFFFFFFF></color>
+""
+06/21/2024 19:09:24: Console: <color=orange>Gavriil</color>: <color=#FFFFFFFF></color>
+06/21/2024 19:09:47: Console: [Info   : Unity Log] 06/21/2024 19:09:47: Got character ZDOID from Gavriil : 0:0
+""
+06/21/2024 19:09:47: Got character ZDOID from Gavriil : 0:0
+06/21/2024 19:09:47: Console: [Info   : Unity Log] 06/21/2024 19:09:47: Got character ZDOID from Gavriil : -754556743:64
+""
+06/21/2024 19:09:47: Got character ZDOID from Gavriil : -754556743:64
+06/21/2024 19:11:15: Console: [Info   : Unity Log] 06/21/2024 19:11:15:  Connections 1 ZDOS:119730  sent:0 recv:225
+""
+06/21/2024 19:11:15:  Connections 1 ZDOS:119730  sent:0 recv:225
+06/21/2024 19:12:05: Console: [Info   : Unity Log] 06/21/2024 19:12:05: Got character ZDOID from Gavriil : 0:0
+""
+06/21/2024 19:12:05: Got character ZDOID from Gavriil : 0:0
+06/21/2024 19:12:05: Console: [Info   : Unity Log] 06/21/2024 19:12:05: Got character ZDOID from Gavriil : -754556743:225
+""
+06/21/2024 19:12:05: Got character ZDOID from Gavriil : -754556743:225
+06/21/2024 19:14:38: Console: [Info   : Unity Log] 06/21/2024 19:14:38: Got character ZDOID from Gavriil : 0:0
+""
+06/21/2024 19:14:38: Got character ZDOID from Gavriil : 0:0
+06/21/2024 19:14:38: Console: [Info   : Unity Log] 06/21/2024 19:14:38: Got character ZDOID from Gavriil : -754556743:414
+""
+06/21/2024 19:14:38: Got character ZDOID from Gavriil : -754556743:414
+06/21/2024 19:16:00: Console: [Info   : Unity Log] 06/21/2024 19:16:00: Got character ZDOID from Gavriil : 0:0
+""
+06/21/2024 19:16:00: Got character ZDOID from Gavriil : 0:0
+06/21/2024 19:16:01: Console: [Info   : Unity Log] 06/21/2024 19:16:01: Got character ZDOID from Gavriil : -754556743:513
+""
+06/21/2024 19:16:01: Got character ZDOID from Gavriil : -754556743:513
+06/21/2024 19:21:10: Console: [Info   : Unity Log] Am I Host? True
+Am I Host? True
+06/21/2024 19:21:10: Console: [Info   : Unity Log] 06/21/2024 19:21:10: Available space to current user: 126720393216. Saving is blocked if below: 15278216 bytes. Warnings are given if below: 30556432
+""
+06/21/2024 19:21:10: Available space to current user: 126720393216. Saving is blocked if below: 15278216 bytes. Warnings are given if below: 30556432
+06/21/2024 19:21:10: Console: [Info   : Unity Log] 06/21/2024 19:21:10: Sending message to save player profiles
+""
+06/21/2024 19:21:10: Sending message to save player profiles
+06/21/2024 19:21:10: Console: [Info   : Unity Log] 06/21/2024 19:21:10: Sent to playfab/675D32EABCC36F50
+""
+06/21/2024 19:21:10: Sent to playfab/675D32EABCC36F50
+06/21/2024 19:21:10: Console: [Info   : Unity Log] 06/21/2024 19:21:10: PrepareSave: clone done in 40ms
+""
+06/21/2024 19:21:10: PrepareSave: clone done in 40ms
+06/21/2024 19:21:10: Console: [Info   : Unity Log] 06/21/2024 19:21:10: PrepareSave: ZDOExtraData.PrepareSave done in 28 ms
+""
+06/21/2024 19:21:10: PrepareSave: ZDOExtraData.PrepareSave done in 28 ms
+06/21/2024 19:21:10: World save writing starting
+06/21/2024 19:21:10: World save writing started
+06/21/2024 19:21:10: Saved 119729 ZDOs
+06/21/2024 19:21:10: World save writing finishing
+06/21/2024 19:21:10: World save writing finished
+"06/21/2024 19:21:10: World saved ( 531,575ms )"
+"06/21/2024 19:21:10: Considering autobackup. World time: 5395,44, short time: 7200, long time: 43200, backup count: 4"
+06/21/2024 19:21:10: Overwrite our newest autobackup since the second one isn't so old
+06/21/2024 19:21:10: Replacing backup file: COMUNISMO_backup_auto-20240621170554
+06/21/2024 19:21:10: Saving backup at: COMUNISMO_backup_auto-20240621192110
+06/21/2024 19:21:10: World auto backup saved ( 00:00:00.0147140ms )
+06/21/2024 19:21:11: Console: [Info   : Unity Log] Am I Host? True
+Am I Host? True
+06/21/2024 19:21:15: Console: [Info   : Unity Log] 06/21/2024 19:21:15:  Connections 1 ZDOS:119734  sent:0 recv:121
+""
+06/21/2024 19:21:15:  Connections 1 ZDOS:119734  sent:0 recv:121
+06/21/2024 19:21:20: Console: [Info   : Unity Log] 06/21/2024 19:21:20: Got character ZDOID from Gavriil : 0:0
+""
+06/21/2024 19:21:20: Got character ZDOID from Gavriil : 0:0
+06/21/2024 19:21:20: Console: [Info   : Unity Log] 06/21/2024 19:21:20: Got character ZDOID from Gavriil : -754556743:866
+""
+06/21/2024 19:21:20: Got character ZDOID from Gavriil : -754556743:866
+06/21/2024 19:21:25: Console: [Info   : Unity Log] 06/21/2024 19:21:25: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 19:21:25: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+06/21/2024 19:22:58: Console: [Info   : Unity Log] 06/21/2024 19:22:58: Got character ZDOID from Gavriil : 0:0
+""
+06/21/2024 19:22:58: Got character ZDOID from Gavriil : 0:0
+06/21/2024 19:22:58: Console: [Info   : Unity Log] 06/21/2024 19:22:58: Got character ZDOID from Gavriil : -754556743:982
+""
+06/21/2024 19:22:58: Got character ZDOID from Gavriil : -754556743:982
+06/21/2024 19:24:17: Console: [Info   : Unity Log] 06/21/2024 19:24:17: Got character ZDOID from Gavriil : 0:0
+""
+06/21/2024 19:24:17: Got character ZDOID from Gavriil : 0:0
+06/21/2024 19:24:17: Console: [Info   : Unity Log] 06/21/2024 19:24:17: Got character ZDOID from Gavriil : -754556743:1072
+""
+06/21/2024 19:24:17: Got character ZDOID from Gavriil : -754556743:1072
+06/21/2024 19:27:07: Console: [Info   : Unity Log] 06/21/2024 19:27:07: Got character ZDOID from Gavriil : 0:0
+""
+06/21/2024 19:27:07: Got character ZDOID from Gavriil : 0:0
+06/21/2024 19:27:07: Console: [Info   : Unity Log] 06/21/2024 19:27:07: Got character ZDOID from Gavriil : -754556743:1256
+""
+06/21/2024 19:27:07: Got character ZDOID from Gavriil : -754556743:1256
+06/21/2024 19:28:46: Console: [Info   : Unity Log] 06/21/2024 19:28:46: Update PlayFab entity token
+""
+06/21/2024 19:28:46: Update PlayFab entity token
+06/21/2024 19:29:06: Console: [Info   : Unity Log] 06/21/2024 19:29:06: Got character ZDOID from Gavriil : 0:0
+""
+06/21/2024 19:29:06: Got character ZDOID from Gavriil : 0:0
+06/21/2024 19:29:06: Console: [Info   : Unity Log] 06/21/2024 19:29:06: Got character ZDOID from Gavriil : -754556743:1413
+""
+06/21/2024 19:29:06: Got character ZDOID from Gavriil : -754556743:1413
+"06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: Keep socket for playfab/675D32EABCC36F50, try to reconnect before timeout"
+""
+"06/21/2024 19:29:43: Keep socket for playfab/675D32EABCC36F50, try to reconnect before timeout"
+"06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 19:29:43: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: RPC_Disconnect
+""
+06/21/2024 19:29:43: RPC_Disconnect
+06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1452 owner -754556743
+""
+06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1452 owner -754556743
+06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1454 owner -754556743
+""
+06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1454 owner -754556743
+06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1413 owner -754556743
+""
+06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1413 owner -754556743
+06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1455 owner -754556743
+""
+06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1455 owner -754556743
+06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1402 owner -754556743
+""
+06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1402 owner -754556743
+06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1450 owner -754556743
+""
+06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1450 owner -754556743
+06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1414 owner -754556743
+""
+06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1414 owner -754556743
+06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1451 owner -754556743
+""
+06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1451 owner -754556743
+06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1453 owner -754556743
+""
+06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1453 owner -754556743
+06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1449 owner -754556743
+""
+06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1449 owner -754556743
+06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1448 owner -754556743
+""
+06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1448 owner -754556743
+06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1447 owner -754556743
+""
+06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1447 owner -754556743
+06/21/2024 19:29:43: Console: [Info   : Unity Log] 06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1446 owner -754556743
+""
+06/21/2024 19:29:43: Destroying abandoned non persistent zdo -754556743:1446 owner -754556743
+06/21/2024 19:29:43: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CONNECTED
+ZPlayFabSocket::Dispose. State: CONNECTED
+06/21/2024 19:29:43: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+06/21/2024 19:29:43: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CLOSED
+ZPlayFabSocket::Dispose. State: CLOSED
+06/21/2024 19:31:15: Console: [Info   : Unity Log] 06/21/2024 19:31:15:  Connections 0 ZDOS:119731  sent:0 recv:0
+""
+06/21/2024 19:31:15:  Connections 0 ZDOS:119731  sent:0 recv:0
+06/21/2024 19:32:51: Console: [Info   : Unity Log] 06/21/2024 19:32:51: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 19:32:51: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+06/21/2024 19:38:15: Console: [Info   : Unity Log] 06/21/2024 19:38:15: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+""
+06/21/2024 19:38:15: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+"06/21/2024 19:38:15: Console: [Info   : Unity Log] 06/21/2024 19:38:15: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 19:38:15: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 19:38:15: Console: [Info   : Unity Log] 06/21/2024 19:38:15: Muted PlayFab remote player 675D32EABCC36F50
+""
+06/21/2024 19:38:15: Muted PlayFab remote player 675D32EABCC36F50
+06/21/2024 19:38:15: Console: [Info   : Unity Log] 06/21/2024 19:38:15: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+""
+06/21/2024 19:38:15: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+06/21/2024 19:38:15: Console: [Info   : Unity Log] 06/21/2024 19:38:15: ZRpc timeout set to 90s
+""
+06/21/2024 19:38:15: ZRpc timeout set to 90s
+06/21/2024 19:38:15: Console: [Info   : Unity Log] 06/21/2024 19:38:15: Got handshake from client playfab/675D32EABCC36F50
+""
+06/21/2024 19:38:15: Got handshake from client playfab/675D32EABCC36F50
+"06/21/2024 19:38:18: Console: [Info   : Unity Log] 06/21/2024 19:38:18: Network version check, their:27, mine:27"
+""
+"06/21/2024 19:38:18: Network version check, their:27, mine:27"
+"06/21/2024 19:38:18: Console: [Info   : Unity Log] 06/21/2024 19:38:18: Server: New peer connected,sending global keys"
+""
+"06/21/2024 19:38:18: Server: New peer connected,sending global keys"
+06/21/2024 19:38:36: Console: [Info   : Unity Log] 06/21/2024 19:38:36: Got character ZDOID from Gavriil : -863904327:1
+""
+06/21/2024 19:38:36: Got character ZDOID from Gavriil : -863904327:1
+06/21/2024 19:38:36: Console: [Info   : Unity Log] 06/21/2024 19:38:36: Console: <color=orange>Gavriil</color>: <color=#FFEB04FF>I HAVE ARRIVED!</color>
+""
+06/21/2024 19:38:36: Console: <color=orange>Gavriil</color>: <color=#FFEB04FF>I HAVE ARRIVED!</color>
+06/21/2024 19:41:15: Console: [Info   : Unity Log] 06/21/2024 19:41:15:  Connections 1 ZDOS:119739  sent:0 recv:256
+""
+06/21/2024 19:41:15:  Connections 1 ZDOS:119739  sent:0 recv:256
+06/21/2024 19:44:46: Console: [Info   : Unity Log] 06/21/2024 19:44:46: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 19:44:46: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+06/21/2024 19:46:24: Console: [Info   : Unity Log] 06/21/2024 19:46:24: Got character ZDOID from Gavriil : 0:0
+""
+06/21/2024 19:46:24: Got character ZDOID from Gavriil : 0:0
+06/21/2024 19:46:24: Console: [Info   : Unity Log] 06/21/2024 19:46:24: Got character ZDOID from Gavriil : -863904327:598
+""
+06/21/2024 19:46:24: Got character ZDOID from Gavriil : -863904327:598
+06/21/2024 19:48:24: Console: [Info   : Unity Log] 06/21/2024 19:48:24: Got character ZDOID from Gavriil : 0:0
+""
+06/21/2024 19:48:24: Got character ZDOID from Gavriil : 0:0
+06/21/2024 19:48:24: Console: [Info   : Unity Log] 06/21/2024 19:48:24: Got character ZDOID from Gavriil : -863904327:744
+""
+06/21/2024 19:48:24: Got character ZDOID from Gavriil : -863904327:744
+06/21/2024 19:48:31: Console: [Info   : Unity Log] 06/21/2024 19:48:31: Update PlayFab entity token
+""
+06/21/2024 19:48:31: Update PlayFab entity token
+06/21/2024 19:51:10: Console: [Info   : Unity Log] Am I Host? True
+Am I Host? True
+06/21/2024 19:51:10: Console: [Info   : Unity Log] 06/21/2024 19:51:10: Available space to current user: 126694100992. Saving is blocked if below: 15278442 bytes. Warnings are given if below: 30556884
+""
+06/21/2024 19:51:10: Available space to current user: 126694100992. Saving is blocked if below: 15278442 bytes. Warnings are given if below: 30556884
+06/21/2024 19:51:10: Console: [Info   : Unity Log] 06/21/2024 19:51:10: Sending message to save player profiles
+""
+06/21/2024 19:51:10: Sending message to save player profiles
+06/21/2024 19:51:10: Console: [Info   : Unity Log] 06/21/2024 19:51:10: Sent to playfab/675D32EABCC36F50
+""
+06/21/2024 19:51:10: Sent to playfab/675D32EABCC36F50
+06/21/2024 19:51:10: Console: [Info   : Unity Log] 06/21/2024 19:51:10: PrepareSave: clone done in 37ms
+""
+06/21/2024 19:51:10: PrepareSave: clone done in 37ms
+06/21/2024 19:51:10: Console: [Info   : Unity Log] 06/21/2024 19:51:10: PrepareSave: ZDOExtraData.PrepareSave done in 32 ms
+""
+06/21/2024 19:51:10: PrepareSave: ZDOExtraData.PrepareSave done in 32 ms
+06/21/2024 19:51:10: World save writing starting
+06/21/2024 19:51:10: World save writing started
+06/21/2024 19:51:11: Saved 119730 ZDOs
+06/21/2024 19:51:11: World save writing finishing
+06/21/2024 19:51:11: World save writing finished
+"06/21/2024 19:51:11: World saved ( 681,316ms )"
+"06/21/2024 19:51:11: Considering autobackup. World time: 7195,98, short time: 7200, long time: 43200, backup count: 4"
+06/21/2024 19:51:11: No autobackup needed yet...
+06/21/2024 19:51:12: Console: [Info   : Unity Log] Am I Host? True
+Am I Host? True
+06/21/2024 19:51:15: Console: [Info   : Unity Log] 06/21/2024 19:51:15: Unloading unused assets
+""
+06/21/2024 19:51:15: Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1135)
+06/21/2024 19:51:15: Console: [Info   : Unity Log] 06/21/2024 19:51:15:  Connections 1 ZDOS:119737  sent:0 recv:243
+""
+06/21/2024 19:51:15:  Connections 1 ZDOS:119737  sent:0 recv:243
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 195862.
+Total: 122.204953 ms (FindLiveObjects: 15.357881 ms CreateObjectMapping: 22.101868 ms MarkObjects: 83.999485 ms  DeleteObjects: 0.743254 ms)
+""
+06/21/2024 19:54:13: Console: [Info   : Unity Log] 06/21/2024 19:54:13: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 19:54:13: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+"06/21/2024 19:58:17: Console: [Info   : Unity Log] 06/21/2024 19:58:17: Keep socket for playfab/675D32EABCC36F50, try to reconnect before timeout"
+""
+"06/21/2024 19:58:17: Keep socket for playfab/675D32EABCC36F50, try to reconnect before timeout"
+"06/21/2024 19:58:17: Console: [Info   : Unity Log] 06/21/2024 19:58:17: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 19:58:17: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 19:58:17: Console: [Warning: Unity Log] 06/21/2024 19:58:17: PlayFab network error in session 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== with type 'Error' and code '4098': the operation was called with an invalid handle
+""
+06/21/2024 19:58:17: PlayFab network error in session 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== with type 'Error' and code '4098': the operation was called with an invalid handle
+"06/21/2024 19:58:17: Console: [Info   : Unity Log] 06/21/2024 19:58:17: Failed to send, suspend TX on playfab/675D32EABCC36F50 while trying to reconnect"
+""
+"06/21/2024 19:58:17: Failed to send, suspend TX on playfab/675D32EABCC36F50 while trying to reconnect"
+06/21/2024 19:58:35: Console: [Info   : Unity Log] ResetParty
+ResetParty
+06/21/2024 19:58:35: Console: [Info   : Unity Log] Task: LeaveNetworkTask
+Task: LeaveNetworkTask
+06/21/2024 19:58:35: Console: [Info   : Unity Log] Task: CleanPartyTask
+Task: CleanPartyTask
+06/21/2024 19:58:36: Console: [Info   : Unity Log] Task: InitPartyTask()
+Task: InitPartyTask()
+06/21/2024 19:58:36: Console: [Info   : Unity Log] Task: JoinPartyTask
+Task: JoinPartyTask
+"06/21/2024 19:58:38: Console: [Info   : Unity Log] 06/21/2024 19:58:38: Joined PlayFab Party network with ID ""b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ=="""
+""
+"06/21/2024 19:58:38: Joined PlayFab Party network with ID ""b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ=="""
+06/21/2024 19:59:46: Console: [Warning: Unity Log] 06/21/2024 19:59:46: ZRpc timeout detected
+""
+06/21/2024 19:59:46: ZRpc timeout detected
+06/21/2024 19:59:46: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CONNECTED
+ZPlayFabSocket::Dispose. State: CONNECTED
+06/21/2024 19:59:46: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+06/21/2024 19:59:46: Console: [Info   : Unity Log] 06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1443 owner -863904327
+""
+06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1443 owner -863904327
+06/21/2024 19:59:46: Console: [Info   : Unity Log] 06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1450 owner -863904327
+""
+06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1450 owner -863904327
+06/21/2024 19:59:46: Console: [Info   : Unity Log] 06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1449 owner -863904327
+""
+06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1449 owner -863904327
+06/21/2024 19:59:46: Console: [Info   : Unity Log] 06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1444 owner -863904327
+""
+06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1444 owner -863904327
+06/21/2024 19:59:46: Console: [Info   : Unity Log] 06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1445 owner -863904327
+""
+06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1445 owner -863904327
+06/21/2024 19:59:46: Console: [Info   : Unity Log] 06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1446 owner -863904327
+""
+06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1446 owner -863904327
+06/21/2024 19:59:46: Console: [Info   : Unity Log] 06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1447 owner -863904327
+""
+06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1447 owner -863904327
+06/21/2024 19:59:46: Console: [Info   : Unity Log] 06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1448 owner -863904327
+""
+06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:1448 owner -863904327
+06/21/2024 19:59:46: Console: [Info   : Unity Log] 06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:744 owner -863904327
+""
+06/21/2024 19:59:46: Destroying abandoned non persistent zdo -863904327:744 owner -863904327
+06/21/2024 19:59:46: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CLOSED
+ZPlayFabSocket::Dispose. State: CLOSED
+06/21/2024 19:59:46: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CLOSED
+ZPlayFabSocket::Dispose. State: CLOSED
+06/21/2024 20:01:16: Console: [Info   : Unity Log] 06/21/2024 20:01:16:  Connections 0 ZDOS:119730  sent:0 recv:0
+""
+06/21/2024 20:01:16:  Connections 0 ZDOS:119730  sent:0 recv:0
+06/21/2024 20:08:10: Console: [Info   : Unity Log] 06/21/2024 20:08:10: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 20:08:10: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+06/21/2024 20:08:14: Console: [Info   : Unity Log] 06/21/2024 20:08:14: Update PlayFab entity token
+""
+06/21/2024 20:08:14: Update PlayFab entity token
+06/21/2024 20:11:16: Console: [Info   : Unity Log] 06/21/2024 20:11:16:  Connections 0 ZDOS:119730  sent:0 recv:0
+""
+06/21/2024 20:11:16:  Connections 0 ZDOS:119730  sent:0 recv:0
+06/21/2024 20:18:30: Console: [Info   : Unity Log] 06/21/2024 20:18:30: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 20:18:30: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+06/21/2024 20:21:11: Console: [Info   : Unity Log] Am I Host? True
+Am I Host? True
+06/21/2024 20:21:11: Console: [Info   : Unity Log] 06/21/2024 20:21:11: Available space to current user: 126642315264. Saving is blocked if below: 15278886 bytes. Warnings are given if below: 30557772
+""
+06/21/2024 20:21:11: Available space to current user: 126642315264. Saving is blocked if below: 15278886 bytes. Warnings are given if below: 30557772
+06/21/2024 20:21:11: Console: [Info   : Unity Log] 06/21/2024 20:21:11: Sending message to save player profiles
+""
+06/21/2024 20:21:11: Sending message to save player profiles
+06/21/2024 20:21:11: Console: [Info   : Unity Log] 06/21/2024 20:21:11: PrepareSave: clone done in 28ms
+""
+06/21/2024 20:21:11: PrepareSave: clone done in 28ms
+06/21/2024 20:21:11: Console: [Info   : Unity Log] 06/21/2024 20:21:11: PrepareSave: ZDOExtraData.PrepareSave done in 31 ms
+""
+06/21/2024 20:21:11: PrepareSave: ZDOExtraData.PrepareSave done in 31 ms
+06/21/2024 20:21:11: World save writing starting
+06/21/2024 20:21:11: World save writing started
+06/21/2024 20:21:11: Saved 119730 ZDOs
+06/21/2024 20:21:11: World save writing finishing
+06/21/2024 20:21:11: World save writing finished
+"06/21/2024 20:21:11: World saved ( 460,463ms )"
+"06/21/2024 20:21:11: Considering autobackup. World time: 8995,479, short time: 7200, long time: 43200, backup count: 4"
+06/21/2024 20:21:11: No autobackup needed yet...
+06/21/2024 20:21:12: Console: [Info   : Unity Log] Am I Host? True
+Am I Host? True
+06/21/2024 20:21:16: Console: [Info   : Unity Log] 06/21/2024 20:21:16:  Connections 0 ZDOS:119730  sent:0 recv:0
+""
+06/21/2024 20:21:16:  Connections 0 ZDOS:119730  sent:0 recv:0
+06/21/2024 20:27:46: Console: [Info   : Unity Log] 06/21/2024 20:27:46: Update PlayFab entity token
+""
+06/21/2024 20:27:46: Update PlayFab entity token
+06/21/2024 20:31:16: Console: [Info   : Unity Log] 06/21/2024 20:31:16:  Connections 0 ZDOS:119730  sent:0 recv:0
+""
+06/21/2024 20:31:16:  Connections 0 ZDOS:119730  sent:0 recv:0
+06/21/2024 20:32:07: Console: [Info   : Unity Log] 06/21/2024 20:32:07: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 20:32:07: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+06/21/2024 20:41:16: Console: [Info   : Unity Log] 06/21/2024 20:41:16:  Connections 0 ZDOS:119730  sent:0 recv:0
+""
+06/21/2024 20:41:16:  Connections 0 ZDOS:119730  sent:0 recv:0
+06/21/2024 20:41:22: Console: [Info   : Unity Log] 06/21/2024 20:41:22: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 20:41:22: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+06/21/2024 20:43:23: Console: [Info   : Unity Log] 06/21/2024 20:43:23: Update PlayFab entity token
+""
+06/21/2024 20:43:23: Update PlayFab entity token
+06/21/2024 20:51:11: Console: [Info   : Unity Log] Am I Host? True
+Am I Host? True
+06/21/2024 20:51:11: Console: [Info   : Unity Log] 06/21/2024 20:51:11: Available space to current user: 126626201600. Saving is blocked if below: 15278886 bytes. Warnings are given if below: 30557772
+""
+06/21/2024 20:51:11: Available space to current user: 126626201600. Saving is blocked if below: 15278886 bytes. Warnings are given if below: 30557772
+06/21/2024 20:51:11: Console: [Info   : Unity Log] 06/21/2024 20:51:11: Sending message to save player profiles
+""
+06/21/2024 20:51:11: Sending message to save player profiles
+06/21/2024 20:51:11: Console: [Info   : Unity Log] 06/21/2024 20:51:11: PrepareSave: clone done in 33ms
+""
+06/21/2024 20:51:11: PrepareSave: clone done in 33ms
+06/21/2024 20:51:11: Console: [Info   : Unity Log] 06/21/2024 20:51:11: PrepareSave: ZDOExtraData.PrepareSave done in 41 ms
+""
+06/21/2024 20:51:11: PrepareSave: ZDOExtraData.PrepareSave done in 41 ms
+06/21/2024 20:51:11: World save writing starting
+06/21/2024 20:51:11: World save writing started
+06/21/2024 20:51:12: Saved 119730 ZDOs
+06/21/2024 20:51:12: World save writing finishing
+06/21/2024 20:51:12: World save writing finished
+"06/21/2024 20:51:12: World saved ( 458,269ms )"
+"06/21/2024 20:51:12: Considering autobackup. World time: 10795,86, short time: 7200, long time: 43200, backup count: 4"
+06/21/2024 20:51:12: No autobackup needed yet...
+06/21/2024 20:51:12: Console: [Info   : Unity Log] Am I Host? True
+Am I Host? True
+06/21/2024 20:51:16: Console: [Info   : Unity Log] 06/21/2024 20:51:16: Unloading unused assets
+""
+06/21/2024 20:51:16: Unloading unused assets
+06/21/2024 20:51:16: Console: [Info   : Unity Log] 06/21/2024 20:51:16:  Connections 0 ZDOS:119730  sent:0 recv:0
+""
+06/21/2024 20:51:16:  Connections 0 ZDOS:119730  sent:0 recv:0
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1135)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 195862.
+Total: 127.426374 ms (FindLiveObjects: 14.764588 ms CreateObjectMapping: 20.355743 ms MarkObjects: 91.725544 ms  DeleteObjects: 0.579506 ms)
+""
+06/21/2024 20:51:53: Console: [Info   : Unity Log] 06/21/2024 20:51:53: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 20:51:53: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+06/21/2024 20:54:48: Console: [Info   : Unity Log] 06/21/2024 20:54:48: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+""
+06/21/2024 20:54:48: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+"06/21/2024 20:54:48: Console: [Info   : Unity Log] 06/21/2024 20:54:48: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 20:54:48: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 20:54:48: Console: [Info   : Unity Log] 06/21/2024 20:54:48: ZRpc timeout set to 90s
+""
+06/21/2024 20:54:48: ZRpc timeout set to 90s
+06/21/2024 20:54:48: Console: [Info   : Unity Log] 06/21/2024 20:54:48: Muted PlayFab remote player 675D32EABCC36F50
+""
+06/21/2024 20:54:48: Muted PlayFab remote player 675D32EABCC36F50
+06/21/2024 20:54:48: Console: [Info   : Unity Log] 06/21/2024 20:54:48: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+""
+06/21/2024 20:54:48: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+06/21/2024 20:54:48: Console: [Info   : Unity Log] 06/21/2024 20:54:48: Got handshake from client playfab/675D32EABCC36F50
+""
+06/21/2024 20:54:48: Got handshake from client playfab/675D32EABCC36F50
+"06/21/2024 20:54:56: Console: [Info   : Unity Log] 06/21/2024 20:54:56: Network version check, their:27, mine:27"
+""
+"06/21/2024 20:54:56: Network version check, their:27, mine:27"
+06/21/2024 20:54:56: Console: [Info   : Unity Log] 06/21/2024 20:54:56: Peer playfab/675D32EABCC36F50 has wrong password
+""
+06/21/2024 20:54:56: Peer playfab/675D32EABCC36F50 has wrong password
+"06/21/2024 20:54:57: Console: [Info   : Unity Log] 06/21/2024 20:54:57: Keep socket for playfab/675D32EABCC36F50, try to reconnect before timeout"
+""
+"06/21/2024 20:54:57: Keep socket for playfab/675D32EABCC36F50, try to reconnect before timeout"
+"06/21/2024 20:54:57: Console: [Info   : Unity Log] 06/21/2024 20:54:57: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 20:54:57: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 20:54:57: Console: [Info   : Unity Log] 06/21/2024 20:54:57: RPC_Disconnect
+""
+06/21/2024 20:54:57: RPC_Disconnect
+06/21/2024 20:54:57: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CONNECTED
+ZPlayFabSocket::Dispose. State: CONNECTED
+06/21/2024 20:54:57: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+06/21/2024 20:54:57: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CLOSED
+ZPlayFabSocket::Dispose. State: CLOSED
+06/21/2024 20:55:17: Console: [Info   : Unity Log] 06/21/2024 20:55:17: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+""
+06/21/2024 20:55:17: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+"06/21/2024 20:55:17: Console: [Info   : Unity Log] 06/21/2024 20:55:17: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 20:55:17: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 20:55:17: Console: [Info   : Unity Log] 06/21/2024 20:55:17: Muted PlayFab remote player 675D32EABCC36F50
+""
+06/21/2024 20:55:17: Muted PlayFab remote player 675D32EABCC36F50
+06/21/2024 20:55:17: Console: [Info   : Unity Log] 06/21/2024 20:55:17: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+""
+06/21/2024 20:55:17: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+06/21/2024 20:55:17: Console: [Info   : Unity Log] 06/21/2024 20:55:17: ZRpc timeout set to 90s
+""
+06/21/2024 20:55:17: ZRpc timeout set to 90s
+06/21/2024 20:55:17: Console: [Info   : Unity Log] 06/21/2024 20:55:17: Got handshake from client playfab/675D32EABCC36F50
+""
+06/21/2024 20:55:17: Got handshake from client playfab/675D32EABCC36F50
+"06/21/2024 20:55:19: Console: [Info   : Unity Log] 06/21/2024 20:55:19: Network version check, their:27, mine:27"
+""
+"06/21/2024 20:55:19: Network version check, their:27, mine:27"
+06/21/2024 20:55:19: Console: [Info   : Unity Log] 06/21/2024 20:55:19: Peer playfab/675D32EABCC36F50 has wrong password
+""
+06/21/2024 20:55:19: Peer playfab/675D32EABCC36F50 has wrong password
+"06/21/2024 20:55:20: Console: [Info   : Unity Log] 06/21/2024 20:55:20: Keep socket for playfab/675D32EABCC36F50, try to reconnect before timeout"
+""
+"06/21/2024 20:55:20: Keep socket for playfab/675D32EABCC36F50, try to reconnect before timeout"
+"06/21/2024 20:55:20: Console: [Info   : Unity Log] 06/21/2024 20:55:20: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 20:55:20: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 20:55:20: Console: [Info   : Unity Log] 06/21/2024 20:55:20: RPC_Disconnect
+""
+06/21/2024 20:55:20: RPC_Disconnect
+06/21/2024 20:55:20: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CONNECTED
+ZPlayFabSocket::Dispose. State: CONNECTED
+06/21/2024 20:55:20: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+06/21/2024 20:55:20: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CLOSED
+ZPlayFabSocket::Dispose. State: CLOSED
+06/21/2024 20:56:07: Console: [Info   : Unity Log] 06/21/2024 20:56:07: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+""
+06/21/2024 20:56:07: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+"06/21/2024 20:56:07: Console: [Info   : Unity Log] 06/21/2024 20:56:07: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 20:56:07: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 20:56:07: Console: [Info   : Unity Log] 06/21/2024 20:56:07: Muted PlayFab remote player 675D32EABCC36F50
+""
+06/21/2024 20:56:07: Muted PlayFab remote player 675D32EABCC36F50
+06/21/2024 20:56:07: Console: [Info   : Unity Log] 06/21/2024 20:56:07: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+""
+06/21/2024 20:56:07: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+06/21/2024 20:56:07: Console: [Info   : Unity Log] 06/21/2024 20:56:07: ZRpc timeout set to 90s
+""
+06/21/2024 20:56:07: ZRpc timeout set to 90s
+06/21/2024 20:56:07: Console: [Info   : Unity Log] 06/21/2024 20:56:07: Got handshake from client playfab/675D32EABCC36F50
+""
+06/21/2024 20:56:07: Got handshake from client playfab/675D32EABCC36F50
+"06/21/2024 20:56:11: Console: [Info   : Unity Log] 06/21/2024 20:56:11: Network version check, their:27, mine:27"
+""
+"06/21/2024 20:56:11: Network version check, their:27, mine:27"
+"06/21/2024 20:56:11: Console: [Info   : Unity Log] 06/21/2024 20:56:11: Server: New peer connected,sending global keys"
+""
+"06/21/2024 20:56:11: Server: New peer connected,sending global keys"
+06/21/2024 20:56:28: Console: [Info   : Unity Log] 06/21/2024 20:56:28: Got character ZDOID from Gavriil : 209509900:1
+""
+06/21/2024 20:56:28: Got character ZDOID from Gavriil : 209509900:1
+06/21/2024 20:56:28: Console: [Info   : Unity Log] 06/21/2024 20:56:28: Console: <color=orange>Gavriil</color>: <color=#FFEB04FF>I HAVE ARRIVED!</color>
+""
+06/21/2024 20:56:28: Console: <color=orange>Gavriil</color>: <color=#FFEB04FF>I HAVE ARRIVED!</color>
+06/21/2024 20:56:34: Console: [Info   : Unity Log] 06/21/2024 20:56:34: Remote admin 'Steam_76561198040372845' executed command 'devcommands' remotely.
+""
+06/21/2024 20:56:34: Remote admin 'Steam_76561198040372845' executed command 'devcommands' remotely.
+06/21/2024 20:56:34: Console: [Info   : Unity Log] 06/21/2024 20:56:34: Console: Dev commands: True
+""
+06/21/2024 20:56:34: Console: Dev commands: True
+06/21/2024 20:56:34: Console: [Info   : Unity Log] 06/21/2024 20:56:34: Console: WARNING: using any dev commands is not recommended and is done at your own risk.
+""
+06/21/2024 20:56:34: Console: WARNING: using any dev commands is not recommended and is done at your own risk.
+06/21/2024 20:59:00: Console: [Info   : Unity Log] 06/21/2024 20:59:00: Update PlayFab entity token
+""
+06/21/2024 20:59:00: Update PlayFab entity token
+06/21/2024 21:01:16: Console: [Info   : Unity Log] 06/21/2024 21:01:16:  Connections 1 ZDOS:119738  sent:0 recv:249
+""
+06/21/2024 21:01:16:  Connections 1 ZDOS:119738  sent:0 recv:249
+"06/21/2024 21:02:17: Console: [Info   : Unity Log] 06/21/2024 21:02:17: Keep socket for playfab/675D32EABCC36F50, try to reconnect before timeout"
+""
+"06/21/2024 21:02:17: Keep socket for playfab/675D32EABCC36F50, try to reconnect before timeout"
+"06/21/2024 21:02:17: Console: [Info   : Unity Log] 06/21/2024 21:02:17: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 21:02:17: Player connection lost server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 21:02:17: Console: [Info   : Unity Log] 06/21/2024 21:02:17: RPC_Disconnect
+""
+06/21/2024 21:02:17: RPC_Disconnect
+06/21/2024 21:02:17: Console: [Info   : Unity Log] 06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:422 owner 209509900
+""
+06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:422 owner 209509900
+06/21/2024 21:02:17: Console: [Info   : Unity Log] 06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:420 owner 209509900
+""
+06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:420 owner 209509900
+06/21/2024 21:02:17: Console: [Info   : Unity Log] 06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:423 owner 209509900
+""
+06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:423 owner 209509900
+06/21/2024 21:02:17: Console: [Info   : Unity Log] 06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:424 owner 209509900
+""
+06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:424 owner 209509900
+06/21/2024 21:02:17: Console: [Info   : Unity Log] 06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:427 owner 209509900
+""
+06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:427 owner 209509900
+06/21/2024 21:02:17: Console: [Info   : Unity Log] 06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:426 owner 209509900
+""
+06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:426 owner 209509900
+06/21/2024 21:02:17: Console: [Info   : Unity Log] 06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:428 owner 209509900
+""
+06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:428 owner 209509900
+06/21/2024 21:02:17: Console: [Info   : Unity Log] 06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:421 owner 209509900
+""
+06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:421 owner 209509900
+06/21/2024 21:02:17: Console: [Info   : Unity Log] 06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:425 owner 209509900
+""
+06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:425 owner 209509900
+06/21/2024 21:02:17: Console: [Info   : Unity Log] 06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:1 owner 209509900
+""
+06/21/2024 21:02:17: Destroying abandoned non persistent zdo 209509900:1 owner 209509900
+06/21/2024 21:02:17: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CONNECTED
+ZPlayFabSocket::Dispose. State: CONNECTED
+06/21/2024 21:02:17: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+ZPlayFabSocket::Dispose. leave lobby. LobbyId:
+06/21/2024 21:02:17: Console: [Info   : Unity Log] ZPlayFabSocket::Dispose. State: CLOSED
+ZPlayFabSocket::Dispose. State: CLOSED
+06/21/2024 21:02:49: Console: [Info   : Unity Log] 06/21/2024 21:02:49: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+""
+06/21/2024 21:02:49: PlayFab listen socket child connected to remote player 675D32EABCC36F50
+"06/21/2024 21:02:49: Console: [Info   : Unity Log] 06/21/2024 21:02:49: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+""
+"06/21/2024 21:02:49: Player joined server ""Terra Sem Amos!"" that has join code 107351, now 1 player(s)"
+06/21/2024 21:02:49: Console: [Info   : Unity Log] 06/21/2024 21:02:49: Muted PlayFab remote player 675D32EABCC36F50
+""
+06/21/2024 21:02:49: Muted PlayFab remote player 675D32EABCC36F50
+06/21/2024 21:02:49: Console: [Info   : Unity Log] 06/21/2024 21:02:49: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+""
+06/21/2024 21:02:49: PlayFab socket with remote ID playfab/675D32EABCC36F50 received local Platform ID Steam_76561198040372845
+06/21/2024 21:02:49: Console: [Info   : Unity Log] 06/21/2024 21:02:49: ZRpc timeout set to 90s
+""
+06/21/2024 21:02:49: ZRpc timeout set to 90s
+06/21/2024 21:02:49: Console: [Info   : Unity Log] 06/21/2024 21:02:49: Got handshake from client playfab/675D32EABCC36F50
+""
+06/21/2024 21:02:49: Got handshake from client playfab/675D32EABCC36F50
+06/21/2024 21:03:55: Console: [Info   : Unity Log] 06/21/2024 21:03:55: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
+""
+06/21/2024 21:03:55: Lobby eba9fb7e-8f9e-4c34-a86f-ddade6cb93a8.r-20230509 for world 'Terra Sem Amos!' and network b3726a36-10cc-49d3-b8aa-4e034aafb37b|AwCENUCLMcHAZ+NJZ6Qqv6m2LkAXuUJyYXppbFNvdXRoAAAAAAAAAAAAxnqpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZlBkbnMtaXIwLTgxZTUtNjk4N2IwYWUtMjZjOC00ZjRhLWE4ZjYtMmZkMDlmM2E4Y2NiLmJyYXppbHNvdXRoLmNsb3VkYXBwLmF6dXJlLmNvbQ== refreshed
