@@ -17,6 +17,14 @@ LOG_EVENT_TYPE_REGEXES = {
         "regex": r"Got character ZDOID from (?P<viking>\w+[ \w+]*) : (?P<zdoid>[-0-9]*):\d+$",
         'class': types.Join,
     },
+    "rpc_disconnect": {
+        "regex": r"RPC_Disconnect",
+        'class': types.RPCDisconnect,
+    },
+    "destroy_zdo": {
+        "regex": r"Destroying abandoned non persistent zdo (?P<zdoid>[-0-9]+):\d+ owner (?P<owner>[-0-9]+)",
+        'class': types.DestroyZDO,
+    },
     "game_server_connected": {
         "regex": r"Game server connected",
         'class': types.ServerOn,
@@ -40,9 +48,5 @@ LOG_EVENT_TYPE_REGEXES = {
     "steam_user_joined": {
         "regex": r"Got connection SteamID (\d+)",
         "capture_groups": {1: "steam_id"},
-    },
-    "valheim_version": {
-        "regex": r"Valheim version:(\d+\.\d+\.\d+)",
-        "capture_groups": {1: "valheim_version"},
     },
 }

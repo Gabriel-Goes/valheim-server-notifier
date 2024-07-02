@@ -10,19 +10,11 @@
 
 # ------------------------- IMPORTS------------------------------------------ #
 from lib.config import VALHEIM_LOG_PATH, DISCORD_WEBHOOK_URL, SCOREBOARD_FILE
-from typing import Optional
 from lib.utils import read_logs
 from event.matcher import resolve_event
 from notifier.mapper import build_template
 from notifier.discord import publish_event
-
-
-# ------------------------- FUNÇÕES ----------------------------------------- #
-def process_log(log: Optional[str] = None):
-    event = resolve_event(log)
-    if event:
-        template = build_template(event)
-        publish_event(DISCORD_WEBHOOK_URL, template)
+from collections import deque
 
 
 # --------------------------- MAIN ------------------------------------------ #
@@ -37,12 +29,16 @@ def main():
         raise EnvironmentError('Missing <SCOREBOARD_FILE> envvar')
 
     logs = read_logs(path=VALHEIM_LOG_PATH)
+    previous_logs = deque(maxlen=2)
 
     for log in logs:
         if log:
-            process_log(log)
-        else:
-            continue
+            event = resolve_event(log, previous_logs)
+            if event:
+                print(f'Event: {event}')
+                template = build_template(event)
+                publish_event(DISCORD_WEBHOOK_URL, template)
+        previous_logs.append(log)
 
 
 # -------------------------- EXECUÇÃO --------------------------------------- #

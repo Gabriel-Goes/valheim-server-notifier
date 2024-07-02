@@ -57,7 +57,9 @@ def save_join_event(player_name, zdoid, scoreboard):
     player_zdoid_map[zdoid] = player_name
     if player_name not in scoreboard:
         scoreboard[player_name] = (1, [datetime.now().strftime("%Y-%m-%d %H:%M:%S")])
+        print(f"Player {player_name} added to scoreboard.")
     save_scoreboard(scoreboard)
+    print(f"Player {player_name} joined the server.")
 
 
 def save_death_event(player_name):
@@ -67,6 +69,7 @@ def save_death_event(player_name):
         deaths, dates = scoreboard[player_name]
         dates.append(current_date)
         scoreboard[player_name] = (deaths + 1, dates)
+        print(f"Player {player_name} died. Deaths: {deaths + 1}")
     else:
         scoreboard[player_name] = (1, [current_date])
         print(f"Player {player_name} not found in scoreboard when should be.")
@@ -149,6 +152,21 @@ class JoinTemplate(Template):
         return payload
 
 
+class DisconnectTemplate(Template):
+    def get_payload(self) -> dict:
+        player_name = self.event.viking
+        payload = super().get_payload()
+        payload['embeds'] = [{
+            'author': {
+                'name': 'Yamanderu',
+                'icon_url': 'https://raw.githubusercontent.com/Gabriel-Goes/valheim-server-notifier/main/images/Yamanderu_retrato.jpg',
+            },
+            'title': f'O Camarada {player_name} deixou a batalha!',
+            'description': 'Até a próxima!',
+        }]
+        return payload
+
+
 class JoinCodeTemplate(Template):
     def get_payload(self) -> dict:
         payload = super().get_payload()
@@ -187,6 +205,7 @@ MAP = {
     types.ServerOn: ServerOnTemplate,
     types.ServerOff: ServerOffTemplate,
     types.Join: JoinTemplate,
+    types.DestroyZDO: DisconnectTemplate,
     types.JoinCode: JoinCodeTemplate,
     types.Death: DeathTemplate,
     types.WorldSave: WorldSaveTemplate,
@@ -194,10 +213,8 @@ MAP = {
 
 
 def build_template(event: types.Event) -> Template:
-    print(f'Building template for event <{type(event)}>...')
     template = MAP.get(type(event))
     if not template:
-        print(f'Template mapping for given event <{type(event)}> not found')
         raise Exception(f'Template mapping for given event <{type(event)}> not found')
 
     return template(event)

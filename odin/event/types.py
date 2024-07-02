@@ -20,17 +20,17 @@ class Join(Event):
         self.zdoid = zdoid
 
     def __str__(self) -> str:
-        return f'*Camarada {self.viking} se uniu a batalha!*'
+        return f'*Camarada {self.viking}|{self.zdoid} se uniu a batalha!*'
 
 
-class Leave(Event):
-    viking: str
+class RPCDisconnect(Event):
+    pass
 
-    def __init__(self, viking: str) -> None:
+
+class DestroyZDO(Event):
+    def __init__(self, zdoid, viking):
+        self.zdoid = zdoid
         self.viking = viking
-
-    def __str__(self) -> str:
-        return f'*Camarada {self.viking} abandonou a batalha!*'
 
 
 class JoinCode(Event):
