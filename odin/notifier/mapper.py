@@ -22,7 +22,6 @@ def read_scoreboard():
         raise f"Scoreboard file not found: {scoreboard_file}"
         return {}
     scoreboard = {}
-    print(f"Reading scoreboard from {scoreboard_file}")
     with open(scoreboard_file, 'r') as f:
         next(f)
         for line in f:
@@ -35,13 +34,18 @@ def read_scoreboard():
                             int(deaths.strip()),
                             json.loads(dates.strip())
                         )
+    print(f"Scoreboard read: {scoreboard_file}")
     return scoreboard
 
 
 def save_scoreboard(scoreboard):
+    print('')
+    print(f"Saving scoreboard: {scoreboard_file}")
+    print(f"Scoreboard: {scoreboard}")
     with open(scoreboard_file, 'w') as f:
         f.write("NOME;MORTES;DATAS\n")
         for player, (deaths, dates) in scoreboard.items():
+            print(f"Saving player: {player} deaths: {deaths}")
             f.write(f"{player};{deaths};{json.dumps(dates)}\n")
 
 
@@ -55,11 +59,14 @@ def return_scoreboard_with_last_dates(scoreboard):
 
 def save_join_event(player_name, zdoid, scoreboard):
     player_zdoid_map[zdoid] = player_name
+    current_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    print(f' ZDOID MAP {player_zdoid_map}')
     if player_name not in scoreboard:
-        scoreboard[player_name] = (1, [datetime.now().strftime("%Y-%m-%d %H:%M:%S")])
+        scoreboard[player_name] = (1, [current_date])
         print(f"Player {player_name} added to scoreboard.")
-    save_scoreboard(scoreboard)
-    print(f"Player {player_name} joined the server.")
+        save_scoreboard(scoreboard)
+    else:
+        print(f"Player {player_name} already in scoreboard.")
 
 
 def save_death_event(player_name):
@@ -78,7 +85,7 @@ def save_death_event(player_name):
 
 def get_scoreboard_str(player_name):
     scoreboard = read_scoreboard()
-    save_death_event(player_name)
+    # save_death_event(player_name)
     scoreboard_atualizado = return_scoreboard_with_last_dates(scoreboard)
 
     max_player_length = max(len(player) for player in scoreboard_atualizado) if scoreboard_atualizado else len("NOME")
@@ -123,6 +130,24 @@ class ServerOffTemplate(Template):
         return payload
 
 
+class JoinCodeTemplate(Template):
+    def get_payload(self) -> dict:
+        payload = super().get_payload()
+        payload['embeds'] = [{
+            'author': {
+                'name': 'Yamanderu',
+                'icon_url': 'https://raw.githubusercontent.com/Gabriel-Goes/valheim-server-notifier/main/images/Yamanderu_retrato.jpg',
+            },
+            'title': 'Código de entrada disponível',
+            'description': f'Código: {self.event.join_code} e senha: "marxleninmao"',
+        }]
+        return payload
+
+
+class WorldSaveTemplate(Template):
+    pass
+
+
 class JoinTemplate(Template):
     def get_payload(self) -> dict:
         player_name = self.event.viking
@@ -152,9 +177,10 @@ class JoinTemplate(Template):
         return payload
 
 
-class DisconnectTemplate(Template):
+class DestroyZDOTemplate(Template):
     def get_payload(self) -> dict:
-        player_name = self.event.viking
+        zdoid = self.event.zdoid
+        player_name = player_zdoid_map.get(zdoid, f'ZDO {zdoid}')
         payload = super().get_payload()
         payload['embeds'] = [{
             'author': {
@@ -163,20 +189,6 @@ class DisconnectTemplate(Template):
             },
             'title': f'O Camarada {player_name} deixou a batalha!',
             'description': 'Até a próxima!',
-        }]
-        return payload
-
-
-class JoinCodeTemplate(Template):
-    def get_payload(self) -> dict:
-        payload = super().get_payload()
-        payload['embeds'] = [{
-            'author': {
-                'name': 'Yamanderu',
-                'icon_url': 'https://raw.githubusercontent.com/Gabriel-Goes/valheim-server-notifier/main/images/Yamanderu_retrato.jpg',
-            },
-            'title': 'Código de entrada disponível',
-            'description': f'Código: {self.event.join_code} e senha: "marxleninmao"',
         }]
         return payload
 
@@ -197,15 +209,11 @@ class DeathTemplate(Template):
         return payload
 
 
-class WorldSaveTemplate(Template):
-    pass
-
-
 MAP = {
     types.ServerOn: ServerOnTemplate,
     types.ServerOff: ServerOffTemplate,
     types.Join: JoinTemplate,
-    types.DestroyZDO: DisconnectTemplate,
+    types.DestroyZDO: DestroyZDOTemplate,
     types.JoinCode: JoinCodeTemplate,
     types.Death: DeathTemplate,
     types.WorldSave: WorldSaveTemplate,

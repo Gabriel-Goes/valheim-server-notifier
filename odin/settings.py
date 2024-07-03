@@ -19,10 +19,6 @@ LOG_EVENT_TYPE_REGEXES = {
     },
     "rpc_disconnect": {
         "regex": r"RPC_Disconnect",
-        'class': types.RPCDisconnect,
-    },
-    "destroy_zdo": {
-        "regex": r"Destroying abandoned non persistent zdo (?P<zdoid>[-0-9]+):\d+ owner (?P<owner>[-0-9]+)",
         'class': types.DestroyZDO,
     },
     "game_server_connected": {
@@ -40,13 +36,5 @@ LOG_EVENT_TYPE_REGEXES = {
     "world_saved": {
         "regex": r"World saved \( (\d+\.\d+ms) \)",
         'class': types.WorldSave,
-    },
-    "found_location": {
-        "regex": r"Found location of type (\w+)",
-        "capture_groups": {1: "location_type"},
-    },
-    "steam_user_joined": {
-        "regex": r"Got connection SteamID (\d+)",
-        "capture_groups": {1: "steam_id"},
     },
 }

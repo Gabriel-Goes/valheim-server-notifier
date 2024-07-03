@@ -1,6 +1,14 @@
+# Autor Gabriel Góes Rocha de Lima
+# Data: 2024-06-25
+# Descrição: Configurações de regex para os eventos de log
+# valheim-server-notifier/odin/event/types.py
+# Inspired from https://www.reddit.com/r/valheim/comments/n7vv9b/comment/gxihljp
+
+# ------------------------- IMPORTS------------------------------------------ #
 from . import Event
 
 
+# ------------------------- TYPES------------------------------------------ #
 class Death(Event):
     viking: str
 
@@ -23,14 +31,26 @@ class Join(Event):
         return f'*Camarada {self.viking}|{self.zdoid} se uniu a batalha!*'
 
 
-class RPCDisconnect(Event):
-    pass
-
-
 class DestroyZDO(Event):
-    def __init__(self, zdoid, viking):
+    zdoid: str
+
+    def __init__(self, zdoid: str) -> None:
         self.zdoid = zdoid
+
+    def __str__(self) -> str:
+        from notifier.mapper import player_zdoid_map
+        player_name = player_zdoid_map.get(self.zdoid, f'ZDO {self.zdoid}')
+        return f'O Camarada {player_name} deixou a batalha!'
+
+
+class Leave(Event):
+    viking: str
+
+    def __init__(self, viking: str) -> None:
         self.viking = viking
+
+    def __str__(self) -> str:
+        return f'O Camarada {self.viking} deixou a batalha!'
 
 
 class JoinCode(Event):

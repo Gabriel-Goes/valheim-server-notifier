@@ -9,12 +9,23 @@
 #    https://github.com/jaumebecks/valheim-server-notifier
 
 # ------------------------- IMPORTS------------------------------------------ #
-from lib.config import VALHEIM_LOG_PATH, DISCORD_WEBHOOK_URL, SCOREBOARD_FILE
+from lib.config import VALHEIM_LOG_PATH, DISCORD_WEBHOOK_URL
 from lib.utils import read_logs
 from event.matcher import resolve_event
 from notifier.mapper import build_template
 from notifier.discord import publish_event
-from collections import deque
+from typing import Optional
+
+
+# ------------------------- FUNÇÕES ----------------------------------------- #
+def process_log(log: Optional[str] = None, next_log: Optional[str] = None):
+    if log is None:
+        return
+
+    event = resolve_event(log, next_log)
+    if event:
+        template = build_template(event)
+        publish_event(DISCORD_WEBHOOK_URL, template)
 
 
 # --------------------------- MAIN ------------------------------------------ #
@@ -25,20 +36,14 @@ def main():
     if DISCORD_WEBHOOK_URL is None:
         raise EnvironmentError('Missing <DISCORD_WEBHOOK_URL> envvar')
 
-    if SCOREBOARD_FILE is None:
-        raise EnvironmentError('Missing <SCOREBOARD_FILE> envvar')
-
     logs = read_logs(path=VALHEIM_LOG_PATH)
-    previous_logs = deque(maxlen=2)
-
+    prev_log = None
     for log in logs:
-        if log:
-            event = resolve_event(log, previous_logs)
-            if event:
-                print(f'Event: {event}')
-                template = build_template(event)
-                publish_event(DISCORD_WEBHOOK_URL, template)
-        previous_logs.append(log)
+        if prev_log:
+            process_log(prev_log, log)
+        prev_log = log
+    if prev_log:
+        process_log(prev_log)
 
 
 # -------------------------- EXECUÇÃO --------------------------------------- #
