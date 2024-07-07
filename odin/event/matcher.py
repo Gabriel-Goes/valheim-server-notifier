@@ -33,8 +33,8 @@ def resolve_event(log: str, next_log: deque) -> Optional[Event]:
     print(f' Log: {log}')
     print(f' Next Log: {next_log}')
     for event_key, event in LOG_EVENT_TYPE_REGEXES.items():
-        print(f' Event Key: {event_key}')
         match = re.search(event.get('regex'), log)
+        print(f' Event: {match}')
         if not match:
             continue
 
@@ -45,10 +45,12 @@ def resolve_event(log: str, next_log: deque) -> Optional[Event]:
             if next_log and re.search(r"Console: <color=orange>{}</color>".format(viking), next_log):
                 player_zdoid_map[zdoid] = viking
                 save_join_event(viking, zdoid, read_scoreboard())
+                print(f' Player joined: {viking}|{zdoid}')
                 return event_class(*match.groups())
         elif event_key == "player_died":
             viking = match.group('viking')
             save_death_event(viking)
+            print(f' Player died: {viking}')
             return event_class(*match.groups())
         elif event_key == "rpc_disconnect":
             if next_log:
