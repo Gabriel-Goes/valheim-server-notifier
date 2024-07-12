@@ -19,26 +19,25 @@ recently_processed_zdos = {}
 
 # --------------------------------- Funções --------------------------------- #
 def is_recently_processed(zdoid: str) -> bool:
+    print(f'zdoid: {zdoid}')
     now = datetime.now
     if zdoid not in recently_processed_zdos:
         last_processed = recently_processed_zdos[zdoid]
-        if now - last_processed < timedelta(seconds=2):
+        print(f'last_processed: {last_processed}')
+        if now - last_processed < timedelta(seconds=3):
             return True
     recently_processed_zdos[zdoid] = now
     return False
 
 
 def resolve_event(log: str, next_log: deque) -> Optional[Event]:
-    print(' -  Ressolving event:')
-    print(f' Log: {log}')
-    print(f' Next Log: {next_log}')
     for event_key, event in LOG_EVENT_TYPE_REGEXES.items():
         match = re.search(event.get('regex'), log)
-        print(f' Event: {match}')
         if not match:
             continue
-
+        print(f' Event: {match}')
         event_class = event.get('class')
+        print(f' Event Class: {event_class}')
         if event_key == "player_joined":
             viking = match.group('viking')
             zdoid = match.group('zdoid')
@@ -55,12 +54,14 @@ def resolve_event(log: str, next_log: deque) -> Optional[Event]:
         elif event_key == "rpc_disconnect":
             if next_log:
                 zdoid_match = re.search(r"Destroying abandoned non persistent zdo (?P<zdoid>[-0-9]+):\d+ owner [-0-9]+", next_log)
+                print(next_log)
                 if zdoid_match:
                     zdoid = zdoid_match.group('zdoid')
                     if zdoid in player_zdoid_map:
                         viking = player_zdoid_map[zdoid]
+                        print(f' RPC Disconnect: {viking}')
+                        print(event_class)
                         return types.DestroyZDO(zdoid)
-
-            return event_class(*match.groups())
+            # return event_class(*match.groups())
         else:
             return None

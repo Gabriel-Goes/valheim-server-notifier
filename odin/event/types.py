@@ -35,6 +35,7 @@ class DestroyZDO(Event):
     zdoid: str
 
     def __init__(self, zdoid: str) -> None:
+        print("ZDOID CALL")
         self.zdoid = zdoid
 
     def __str__(self) -> str:
